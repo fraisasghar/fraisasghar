@@ -1,6 +1,6 @@
 <div align="center">
   
-# 👋 Hello there! I'm Frais-Asghar <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+#  Hello there! I'm Frais-Asghar <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
   
 ### **Mechanical Engineer | Manufacturing Specialist | AI Enthusiast**
 
@@ -12,13 +12,13 @@
 
 ---
 
-## 🚀 High-Impact Technical Profile
+##  High-Impact Technical Profile
 
 A highly motivated and results-driven professional with a strong foundation in mechanical design, advanced simulation, and hands-on manufacturing processes. My expertise is built upon practical experience gained through an intensive **4.5-month hands-on workshop** at a dedicated Manufacturing Resource Center.
 
 ---
 
-### 🛠️ Core Engineering & Manufacturing Mastery
+###  Core Engineering & Manufacturing Mastery
 
 My skills cover the full production lifecycle, from initial design concepts to physical execution and validation.
 
@@ -29,7 +29,7 @@ My skills cover the full production lifecycle, from initial design concepts to p
 | **Diagnostics** | Measuring Instruments, Working with Electric Circuits. |
 | **Problem Solving** | Real-world application of mechanical engineering concepts and technical problem-solving. |
 
-### 💡 Advanced Technical Toolset (Vibrant Badges & Programming)
+###  Advanced Technical Toolset (Vibrant Badges & Programming)
 
 I am skilled in a comprehensive suite of industry-standard engineering software and core programming languages. Using **Shields.io** badges ensures these logos display correctly with attractive colors.
 
@@ -40,7 +40,7 @@ I am skilled in a comprehensive suite of industry-standard engineering software 
 | **Programming** | <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/> |
 | **Project & AI** | <img src="https://img.shields.io/badge/Primavera%20P6-PPM-E4003E?style=for-the-badge&logo=oracle&logoColor=white" alt="Primavera P6"/> <img src="https://img.shields.io/badge/AI%20Tools-ML%26DL-FF69B4?style=for-the-badge&logo=tensorflow&logoColor=white" alt="AI Tools"/> |
 
-### 🧠 Innovation & Digital Transformation
+###  Innovation & Digital Transformation
 
 <div align="center">
   
@@ -56,7 +56,7 @@ I am skilled in a comprehensive suite of industry-standard engineering software 
 
 ---
 
-### 📊 GitHub Activity & Collaboration
+###  GitHub Activity & Collaboration
 
 <div align="center">
   
@@ -68,7 +68,7 @@ I am skilled in a comprehensive suite of industry-standard engineering software 
 
 ---
 
-### 📧 Let's Connect
+###  Let's Connect
 
 I am always open to discussing collaboration opportunities, innovative engineering challenges, or technical roles.
 
