@@ -174,8 +174,6 @@
 ### GitHub Analytics
 <div align="center">
 
-## 📊 GitHub Analytics
-
 ![](https://activity-graph.herokuapp.com/graph?username=fraisasghar&theme=react-dark&hide_border=true&area=true&color=00D4FF&bg_color=0D1117&line=00FF00&point=00D4FF)
 
 <br>
