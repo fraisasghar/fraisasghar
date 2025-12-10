@@ -215,19 +215,19 @@
 
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/frais-asghar202/" target="_blank">
+  <a href="https://www.linkedin.com/in/frais-asghar202/" target=" ">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="https://discord.com/channels/1407742708964917388/1407742710097514628" target="_blank">
+  <a href="https://discord.com/channels/1407742708964917388/1407742710097514628" target=" ">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   </a>
-  <a href="http://www.youtube.com/@FraisAsghar" target="_blank">
+  <a href="http://www.youtube.com/@FraisAsghar" target=" ">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
   </a>
-  <a href="https://mail.google.com/mail/u/0/?hl=en#inbox" target="_blank">
+  <a href="https://mail.google.com/mail/u/0/?hl=en#inbox" target=" ">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
-  <a href="https://wa.link/00tuak" target="_blank">
+  <a href="https://wa.link/00tuak" target=" ">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
   </a>
 </div>
@@ -238,9 +238,7 @@
 <div align="center">
 
 <!-- Main Banner – Perfect Green -->
-<img src="https://img.shields.io/badge/OPEN_TO_COLLABORATION-056d05?style=for-the-badge&logo=handshake&logoColor=white&labelColor=056d05&color=1DB954" height="60"/>
-
-<br><br>
+<img src="https://img.shields.io/badge/OPEN_TO_COLLABORATION-056d05?style=for-the-badge&logo=handshake&logoColor=white&labelColor=056d05&color=1DB954" height="60"/><br>
 
 <!-- Stats – Big & Clean -->
 <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
@@ -249,29 +247,29 @@
   <img src="https://img.shields.io/github/stars/fraisasghar?label=Total%20Stars&color=056d05&style=for-the-badge&logo=star&logoColor=white" height="50"/>
 </div>
 
-<br><br>
+<br>
 
 <!-- Final Call to Action – Killer Button -->
 <a href="mailto:fraisasghar202@gmail.com">
   <img src="https://img.shields.io/badge/LET'S_BUILD_TOGETHER-056d05?style=for-the-badge&logo=rocket&logoColor=white&labelColor=056d05&color=1DB954" height="60"/>
 </a>
 
-<br><br><br>
+<br><br>
 <div align="center">
-  <a href="https://www.linkedin.com/in/frais-asghar202/" target="_blank">
+  <a href="https://www.linkedin.com/in/frais-asghar202/" target=" ">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="https://discord.com/channels/1407742708964917388/1407742710097514628" target="_blank">
+  <a href="https://discord.com/channels/1407742708964917388/1407742710097514628" target=" ">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   </a>
-  <a href="http://www.youtube.com/@FraisAsghar" target="_blank">
+  <a href="http://www.youtube.com/@FraisAsghar" target=" ">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
   </a>
-  <a href="https://mail.google.com/mail/u/0/?hl=en#inbox" target="_blank">
+  <a href="https://mail.google.com/mail/u/0/?hl=en#inbox" target=" ">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
-  <a href="https://wa.link/00tuak" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
+  <a href="https://wa.link/00tuak" target=" ">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo" />
   </a>
 </div>
 
