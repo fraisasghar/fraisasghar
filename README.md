@@ -228,13 +228,13 @@
 <!--Table -->
 <table width="100%" cellpadding="0" cellspacing="0" border="0" style="border-collapse: collapse; margin-left: -8px; margin-right: -8px; width: calc(100% + 16px);">
   <tr>
-    <td width="33.33%" style="padding: 0; margin: 0;">
+    <td style="padding: 0; margin: 0;">
    <img src="https://github-readme-stats.vercel.app/api?username=fraisasghar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="100%" />
     </td>
-    <td width="33.33%" style="padding: 0; margin: 0;">
+    <td style="padding: 0; margin: 0;">
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fraisasghar&theme=github_dark" style="width: 100%; height: auto; display: block;" />
     </td>
-    <td width="33.33%" style="padding: 0; margin: 0;">
+    <td style="padding: 0; margin: 0;">
       <div style="background: linear-gradient(135deg, #87CEEB, #4682B4); padding: 0; border-radius: 12px; overflow: hidden;">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=fraisasghar&theme=dark&hide_border=true&background=0D1117&ring=00FF00&fire=00FF00&currStreakLabel=00FF00" style="width: 100%; height: auto; display: block;" />
       </div>
