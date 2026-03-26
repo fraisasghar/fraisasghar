@@ -71,7 +71,7 @@
      <tr>
       <td align="center"><img width="120" height="80" alt="Image" src="https://github.com/user-attachments/assets/ebef6db6-902c-4f0d-a217-e1e48c72bfd9" /><br><b>SolidWorks</b></td>
       <td align="center"><img width="90" height="80" alt="Image" src="https://github.com/user-attachments/assets/5a3de545-1ca4-4297-b8a6-55fbb863c38e" /><br><b>AutoCAD</b></td>
-      <td align="center"><img src="https://github.com/user-attachments/assets/bf3233dd-c5c4-41aa-85f2-38963c1c05d6" width="120" height="80" alt="ANSYS"/><br><b>ANSYS</b></td>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansys/ansys-original.svg" width="80" height="80" alt="ANSYS"/><br><b>ANSYS</b></td>
       <td align="center"><img width="90" height="80" alt="Image" src="https://github.com/user-attachments/assets/0fa3c284-fce8-4296-97c7-ce4b9004886f" /><br><b>Autodesk CFD</b></td>
       <td align="center"><img width="120" height="80" alt="Image" src="https://github.com/user-attachments/assets/dc021fe9-d702-4f3f-a227-2702adbac19f" /><br><b>Proteus 9</b></td>
       <td align="center"><img width="100" height="80" alt="Image" src="https://github.com/user-attachments/assets/7e32a00e-3f49-4623-9100-b7134fb4db25" /><br><b>EES</b></td>
