@@ -28,7 +28,7 @@
   <img src="https://img.shields.io/badge/SolidWorks-FF9900?style=flat-square&logo=solidworks&logoColor=black" />
   <img src="https://img.shields.io/badge/ANSYS-FF6C37?style=flat-square&logo=ansys&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" /><br>
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/AutoCAD-E51937?style=flat-square&logo=autocad&logoColor=white" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-00758F?style=flat-square&logo=pandas&logoColor=white" />
@@ -98,10 +98,12 @@
 <div align="center">
   <table>
     <tr>
-      <td align="center"><img src="https://img.shields.io/badge/Primavera_P6-E4003E?style=for-the-badge&logo=oracle&logoColor=white"  height="60" alt="Primavera P6"/><br><b>Primavera P6</b></td>
-      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="60" height="60" alt="TensorFlow"/><br><b>Machine Learning</b></td>
-      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="60" height="60" alt="PyTorch"/><br><b>Deep Learning</b></td>
-      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="60" height="60" alt="Pandas"/><br><b>Data Analysis</b></td>
+      <td align="center"><img width="80" height="80" alt="Image" src="https://github.com/user-attachments/assets/bf7c8cfc-94db-4595-8324-3eb0c2b7dbd9" /><br><b>Primavera P6</b></td>
+      <td align="center"><img width="80" height="80" alt="Image" src="https://github.com/user-attachments/assets/ca2eb684-7441-4b5f-a3a0-78208a9c03e7" /><br><b>OpenBom</b></td>
+      <td align="center"><img width="80" height="80" alt="Image" src="https://github.com/user-attachments/assets/bb7d33a2-5385-4b2e-82ff-8d02b8df486c" /><br><b>Excel Expert</b></td>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="70" height="90" alt="TensorFlow"/><br><b>Machine Learning</b></td>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="70" height="90" alt="PyTorch"/><br><b>Deep Learning</b></td>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="70" height="90" alt="Pandas"/><br><b>Data Analysis</b></td>
     </tr>
   </table>
 </div>
