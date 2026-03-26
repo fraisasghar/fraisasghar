@@ -6,7 +6,7 @@
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00cfff,100:0047ab&height=220&section=header&text=I'm%20Frais%20Asghar&fontSize=64&fontAlign=50&fontAlignY=60&animation=fadeIn&fontColor=ffffff&desc=Mechanical%20Engineer%20|%20AI%20Enthusiast&descAlign=50&descAlignY=88&descSize=26&descColor=a0e0ff&shadow=true" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00cfff,100:0047ab&height=220&section=header&text=I'm%20Frais%20Asghar&fontSize=64&fontAlign=50&fontAlignY=60&animation=fadeIn&fontColor=ffffff&desc=Mechanical%20Engineer%20|%20Solid%20Works%20|%20Ansys%20|%20AutoCAD&descAlign=50&descAlignY=88&descSize=26&descColor=a0e0ff&shadow=true" alt="Header" />
 </div>
 
 
@@ -30,8 +30,8 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/AutoCAD-E51937?style=flat-square&logo=autocad&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-00758F?style=flat-square&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/AutoDesk_CFD-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/EES-00758F?style=flat-square&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </div>
 
@@ -110,49 +110,19 @@
 
 ---
 
-## Technical Capabilities:
-<br/>
-<div align="center">
-  <table>
-    <tr>
-      <td><b>Design & Analysis</b></td>
-      <td><b>AI & Automation</b></td>
-      <td><b>Project Execution</b></td>
-    </tr>
-    <tr>
-      <td>• 3D Modeling & Assembly<br>• FEA & Simulations<br>• Technical Drawing<br>• DFM Principles</td>
-      <td>• Predictive Maintenance<br>• Computer Vision<br>• Process Optimization<br>• Automated Reporting</td>
-      <td>• Process Planning<br>• Resource Scheduling<br>• Cost Estimation<br>• Quality Assurance</td>
-    </tr>
-  </table>
-</div>
-<br/>
 
----
+## Manufacturing & Engineering Expertise
 
-## Manufacturing & Engineering Expertise:
-<br/>
 <div align="center">
-  <table>
-    <tr>
-      <td><b>Machining</b></td>
-      <td>Lathe and Milling, Drilling, CNC, Bench Fitting, Electroplating Workshop</td>
-    </tr>
-    <tr>
-      <td><b>Fabrication</b></td>
-      <td>Arc and Gass Welding, Casting and Forging, Bench Fitting, Paint Workshop</td>
-    </tr>
-    <tr>
-      <td><b>Measurement</b></td>
-      <td>Calipers, Screw Gauges, Dephth, Hieght and Thread Pitch Guages, Wire Guage</td>
-    </tr>
-    <tr>
-      <td><b>Workshop Training</b></td>
-      <td>4.5 Months Intensive Program, 1 month Civics and Community service workshop</td>
-    </tr>
-  </table>
+
+| **Expertise Area** | **Skills & Experience** |
+|:------------------:|:-----------------------|
+| **Machining** | <img src="https://img.shields.io/badge/Lathe%20Machine-B22222?style=for-the-badge&logoColor=white&color=8B1A1A"/> <img src="https://img.shields.io/badge/Milling%20Machine-2E8B57?style=for-the-badge&logoColor=white&color=1E6B3E"/> <img src="https://img.shields.io/badge/CNC%20Machining-1E3A8A?style=for-the-badge&logoColor=white&color=0F2B6B"/> <img src="https://img.shields.io/badge/Drilling%20&Bench%20Fitting-CC7B2C?style=for-the-badge&logoColor=white&color=AA5A1A"/> <img src="https://img.shields.io/badge/Electroplating-CD6090?style=for-the-badge&logoColor=white&color=9B2C2C"/> |
+| **Fabrication** | <img src="https://img.shields.io/badge/Arc%20Welding-E36C2C?style=for-the-badge&logoColor=white&color=C34C1A"/> <img src="https://img.shields.io/badge/Gas%20Welding-ED8B2B?style=for-the-badge&logoColor=white&color=CD6A1A"/> <img src="https://img.shields.io/badge/Casting%20Processes-4A1D6D?style=for-the-badge&logoColor=white&color=4A1D6D"/> <img src="https://img.shields.io/badge/Forging%20Techniques-9B6E4A?style=for-the-badge&logoColor=white&color=7B4E2E"/> <img src="https://img.shields.io/badge/Paint%20Workshop-BF6B8A?style=for-the-badge&logoColor=white&color=2C6E8F"/> |
+| **Measurement** | <img src="https://img.shields.io/badge/Digital%20Calipers-D45C2C?style=for-the-badge&logoColor=white&color=B43C1A"/> <img src="https://img.shields.io/badge/vernior%20&%20Screw%20Gauges-3A7B9B?style=for-the-badge&logoColor=white&color=1E5B7A"/> <img src="https://img.shields.io/badge/Depth%20Gauges-4C9B7A?style=for-the-badge&logoColor=white&color=0F52BA"/> <img src="https://img.shields.io/badge/Height%20Gauges-ECB83A?style=for-the-badge&logoColor=black&color=CC981A"/> <img src="https://img.shields.io/badge/Pitch%20Gauges-B57A9B?style=for-the-badge&logoColor=white&color=A33D1C"/> |
+| **Workshop Training** | <img src="https://img.shields.io/badge/4.5%20Months%20Manufacturing%20Training-AF6B8E?style=for-the-badge&logoColor=white&color=1B4D3E"/> <img src="https://img.shields.io/badge/30%20Days%20AI%20Workshop-6B8F8E?style=for-the-badge&logoColor=white&color=9B2C2C"/> <img src="https://img.shields.io/badge/4.5%20Month%20Community%20Service-6B8F8E?style=for-the-badge&logoColor=white&color=0A2F44"/> |
+
 </div>
-<br/>
 
 ---
 
@@ -346,7 +316,7 @@
 </p>
 
 <p style="color:#aaaaaa; font-size:15px;">
-  <em>Last Updated: December 2025 • Built with precision for engineering excellence</em>
+  <em>Last Updated: March 2026 • Built with precision for engineering excellence</em>
 </p>
 
 </div>
