@@ -1,0 +1,170 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 420" width="860" height="420" font-family="'Fira Code', 'Courier New', monospace">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;500;600;700&amp;display=swap');
+    </style>
+    <linearGradient id="bg-grad" x1="0" y1="0" x2="860" y2="420" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#0D0D0D"/>
+      <stop offset="100%" stop-color="#111116"/>
+    </linearGradient>
+
+    <!-- Card backgrounds -->
+    <rect id="card" width="248" height="148" rx="10" ry="10"/>
+
+    <!-- Glow filters -->
+    <filter id="glow-red" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <!-- Background -->
+  <rect width="860" height="420" fill="url(#bg-grad)" rx="16"/>
+
+  <!-- Subtle grid texture lines -->
+  <line x1="0" y1="210" x2="860" y2="210" stroke="#ffffff" stroke-opacity="0.03" stroke-width="1"/>
+  <line x1="430" y1="0" x2="430" y2="420" stroke="#ffffff" stroke-opacity="0.03" stroke-width="1"/>
+
+  <!-- Header -->
+  <text x="430" y="32" text-anchor="middle" font-size="10" fill="#FF0000" fill-opacity="0.7" letter-spacing="4" font-weight="400">// CONNECT_WITH_ME</text>
+  <line x1="60" y1="42" x2="370" y2="42" stroke="#FF0000" stroke-opacity="0.25" stroke-width="0.5"/>
+  <polygon points="374,42 382,38 382,46" fill="#FF0000" fill-opacity="0.4"/>
+  <polygon points="486,42 478,38 478,46" fill="#FF0000" fill-opacity="0.4"/>
+  <line x1="490" y1="42" x2="800" y2="42" stroke="#FF0000" stroke-opacity="0.25" stroke-width="0.5"/>
+
+  <!-- ═══════════════ ROW 1 ═══════════════ -->
+
+  <!-- CARD 1: LinkedIn -->
+  <rect x="30" y="56" width="248" height="148" rx="10" fill="#0A1628" stroke="#0A66C2" stroke-opacity="0.35" stroke-width="0.8"/>
+  <rect x="30" y="56" width="248" height="4" rx="2" fill="#0A66C2" fill-opacity="0.8"/>
+  <!-- icon bg -->
+  <rect x="48" y="76" width="36" height="36" rx="8" fill="#0A66C2" fill-opacity="0.15"/>
+  <!-- LinkedIn icon -->
+  <rect x="55" y="83" width="4" height="12" rx="1" fill="#0A66C2" fill-opacity="0.9"/>
+  <rect x="55" y="81" width="4" height="4" rx="2" fill="#0A66C2" fill-opacity="0.9"/>
+  <rect x="61" y="87" width="4" height="8" rx="1" fill="#0A66C2" fill-opacity="0.9"/>
+  <path d="M61 88 Q62 85 65 85 Q68 85 68 89 L68 95" stroke="#0A66C2" stroke-opacity="0.9" stroke-width="3.5" fill="none" stroke-linecap="round"/>
+  <!-- Status dot -->
+  <circle cx="248" cy="72" r="4" fill="#7AB8F5"/>
+  <circle cx="248" cy="72" r="7" fill="#7AB8F5" fill-opacity="0.15"/>
+  <!-- Platform -->
+  <text x="48" y="130" font-size="15" fill="#E8F4FF" font-weight="600" letter-spacing="0.5">LinkedIn</text>
+  <!-- Handle -->
+  <text x="48" y="148" font-size="10" fill="#7AB8F5" fill-opacity="0.85" letter-spacing="0.3">frais-asghar202</text>
+  <!-- Divider -->
+  <line x1="48" y1="158" x2="262" y2="158" stroke="#0A66C2" stroke-opacity="0.2" stroke-width="0.5"/>
+  <!-- Footer -->
+  <text x="48" y="175" font-size="10" fill="#7AB8F5" letter-spacing="0.5">Connect  ↗</text>
+  <text x="238" y="175" text-anchor="end" font-size="9" fill="#7AB8F5" fill-opacity="0.45" letter-spacing="0.3">Open to Work</text>
+
+  <!-- CARD 2: Mail 1 -->
+  <rect x="306" y="56" width="248" height="148" rx="10" fill="#1A0A08" stroke="#B23121" stroke-opacity="0.35" stroke-width="0.8"/>
+  <rect x="306" y="56" width="248" height="4" rx="2" fill="#B23121" fill-opacity="0.8"/>
+  <!-- icon bg -->
+  <rect x="324" y="76" width="36" height="36" rx="8" fill="#B23121" fill-opacity="0.15"/>
+  <!-- Mail icon -->
+  <rect x="330" y="83" width="24" height="17" rx="2" fill="none" stroke="#B23121" stroke-opacity="0.9" stroke-width="1.5"/>
+  <polyline points="330,84 342,93 354,84" fill="none" stroke="#B23121" stroke-opacity="0.9" stroke-width="1.5" stroke-linejoin="round"/>
+  <!-- Status dot -->
+  <circle cx="524" cy="72" r="4" fill="#FF8A75"/>
+  <circle cx="524" cy="72" r="7" fill="#FF8A75" fill-opacity="0.15"/>
+  <!-- Platform -->
+  <text x="324" y="130" font-size="15" fill="#FFE8E4" font-weight="600" letter-spacing="0.5">Mail 1</text>
+  <!-- Handle -->
+  <text x="324" y="148" font-size="10" fill="#FF8A75" fill-opacity="0.85" letter-spacing="0.3">fraisasghar202@gmail.com</text>
+  <!-- Divider -->
+  <line x1="324" y1="158" x2="538" y2="158" stroke="#B23121" stroke-opacity="0.2" stroke-width="0.5"/>
+  <!-- Footer -->
+  <text x="324" y="175" font-size="10" fill="#FF8A75" letter-spacing="0.5">Send mail  ↗</text>
+  <text x="514" y="175" text-anchor="end" font-size="9" fill="#FF8A75" fill-opacity="0.45" letter-spacing="0.3">Primary</text>
+
+  <!-- CARD 3: Mail 2 -->
+  <rect x="582" y="56" width="248" height="148" rx="10" fill="#150A1A" stroke="#9B59B6" stroke-opacity="0.35" stroke-width="0.8"/>
+  <rect x="582" y="56" width="248" height="4" rx="2" fill="#4A0E4E" fill-opacity="0.9"/>
+  <!-- icon bg -->
+  <rect x="600" y="76" width="36" height="36" rx="8" fill="#4A0E4E" fill-opacity="0.4"/>
+  <!-- Mail icon -->
+  <rect x="606" y="83" width="24" height="17" rx="2" fill="none" stroke="#CE93D8" stroke-opacity="0.9" stroke-width="1.5"/>
+  <polyline points="606,84 618,93 630,84" fill="none" stroke="#CE93D8" stroke-opacity="0.9" stroke-width="1.5" stroke-linejoin="round"/>
+  <!-- Status dot -->
+  <circle cx="800" cy="72" r="4" fill="#CE93D8"/>
+  <circle cx="800" cy="72" r="7" fill="#CE93D8" fill-opacity="0.15"/>
+  <!-- Platform -->
+  <text x="600" y="130" font-size="15" fill="#F0D8F8" font-weight="600" letter-spacing="0.5">Mail 2</text>
+  <!-- Handle -->
+  <text x="600" y="148" font-size="10" fill="#CE93D8" fill-opacity="0.85" letter-spacing="0.3">fraisasghar404@gmail.com</text>
+  <!-- Divider -->
+  <line x1="600" y1="158" x2="814" y2="158" stroke="#9B59B6" stroke-opacity="0.2" stroke-width="0.5"/>
+  <!-- Footer -->
+  <text x="600" y="175" font-size="10" fill="#CE93D8" letter-spacing="0.5">Send mail  ↗</text>
+  <text x="790" y="175" text-anchor="end" font-size="9" fill="#CE93D8" fill-opacity="0.45" letter-spacing="0.3">Alt</text>
+
+  <!-- ═══════════════ ROW 2 ═══════════════ -->
+
+  <!-- CARD 4: WhatsApp -->
+  <rect x="30" y="228" width="248" height="148" rx="10" fill="#081A10" stroke="#25D366" stroke-opacity="0.3" stroke-width="0.8"/>
+  <rect x="30" y="228" width="248" height="4" rx="2" fill="#25D366" fill-opacity="0.7"/>
+  <!-- icon bg -->
+  <rect x="48" y="248" width="36" height="36" rx="8" fill="#1A3C2E" fill-opacity="0.7"/>
+  <!-- WhatsApp icon simplified -->
+  <circle cx="66" cy="266" r="10" fill="none" stroke="#25D366" stroke-opacity="0.9" stroke-width="1.5"/>
+  <path d="M60 273 L58 278 L63 276 Q66 278 69 276 Q76 272 74 264 Q72 258 66 258 Q58 258 58 266 Q58 270 60 273Z" fill="none" stroke="#25D366" stroke-opacity="0.9" stroke-width="1.2" stroke-linejoin="round"/>
+  <!-- Status dot -->
+  <circle cx="248" cy="244" r="4" fill="#4DFF91"/>
+  <circle cx="248" cy="244" r="7" fill="#4DFF91" fill-opacity="0.15"/>
+  <!-- Platform -->
+  <text x="48" y="302" font-size="15" fill="#D8FFE8" font-weight="600" letter-spacing="0.5">WhatsApp</text>
+  <!-- Handle -->
+  <text x="48" y="320" font-size="10" fill="#4DFF91" fill-opacity="0.85" letter-spacing="0.3">+92 326 636 7678</text>
+  <!-- Divider -->
+  <line x1="48" y1="330" x2="262" y2="330" stroke="#25D366" stroke-opacity="0.2" stroke-width="0.5"/>
+  <!-- Footer -->
+  <text x="48" y="347" font-size="10" fill="#4DFF91" letter-spacing="0.5">Message  ↗</text>
+  <text x="238" y="347" text-anchor="end" font-size="9" fill="#4DFF91" fill-opacity="0.45" letter-spacing="0.3">Available</text>
+
+  <!-- CARD 5: Discord -->
+  <rect x="306" y="228" width="248" height="148" rx="10" fill="#0D0E1C" stroke="#5865F2" stroke-opacity="0.35" stroke-width="0.8"/>
+  <rect x="306" y="228" width="248" height="4" rx="2" fill="#5865F2" fill-opacity="0.7"/>
+  <!-- icon bg -->
+  <rect x="324" y="248" width="36" height="36" rx="8" fill="#5865F2" fill-opacity="0.12"/>
+  <!-- Discord icon simplified -->
+  <path d="M336 258 Q342 255 348 258 Q354 261 354 266 Q354 271 348 274 L349 278 L345 275 Q342 276 339 275 L335 278 L336 274 Q330 271 330 266 Q330 261 336 258Z" fill="none" stroke="#8A94FF" stroke-opacity="0.9" stroke-width="1.4" stroke-linejoin="round"/>
+  <circle cx="339" cy="266" r="2" fill="#8A94FF" fill-opacity="0.9"/>
+  <circle cx="345" cy="266" r="2" fill="#8A94FF" fill-opacity="0.9"/>
+  <!-- Status dot -->
+  <circle cx="524" cy="244" r="4" fill="#8A94FF"/>
+  <circle cx="524" cy="244" r="7" fill="#8A94FF" fill-opacity="0.15"/>
+  <!-- Platform -->
+  <text x="324" y="302" font-size="15" fill="#E0E2FF" font-weight="600" letter-spacing="0.5">Discord</text>
+  <!-- Handle -->
+  <text x="324" y="320" font-size="10" fill="#8A94FF" fill-opacity="0.85" letter-spacing="0.3">Frais Asghar</text>
+  <!-- Divider -->
+  <line x1="324" y1="330" x2="538" y2="330" stroke="#5865F2" stroke-opacity="0.2" stroke-width="0.5"/>
+  <!-- Footer -->
+  <text x="324" y="347" font-size="10" fill="#8A94FF" letter-spacing="0.5">Join server  ↗</text>
+  <text x="514" y="347" text-anchor="end" font-size="9" fill="#8A94FF" fill-opacity="0.45" letter-spacing="0.3">Online</text>
+
+  <!-- CARD 6: YouTube -->
+  <rect x="582" y="228" width="248" height="148" rx="10" fill="#1A0000" stroke="#FF0000" stroke-opacity="0.3" stroke-width="0.8"/>
+  <rect x="582" y="228" width="248" height="4" rx="2" fill="#FF0000" fill-opacity="0.7"/>
+  <!-- icon bg -->
+  <rect x="600" y="248" width="36" height="36" rx="8" fill="#FF0000" fill-opacity="0.1"/>
+  <!-- YouTube icon -->
+  <rect x="606" y="258" width="24" height="17" rx="3" fill="none" stroke="#FF5252" stroke-opacity="0.9" stroke-width="1.5"/>
+  <polygon points="614,263 614,272 622,267.5" fill="#FF5252" fill-opacity="0.9"/>
+  <!-- Status dot -->
+  <circle cx="800" cy="244" r="4" fill="#FF5252"/>
+  <circle cx="800" cy="244" r="7" fill="#FF5252" fill-opacity="0.15"/>
+  <!-- Platform -->
+  <text x="600" y="302" font-size="15" fill="#FFE0E0" font-weight="600" letter-spacing="0.5">YouTube</text>
+  <!-- Handle -->
+  <text x="600" y="320" font-size="10" fill="#FF5252" fill-opacity="0.85" letter-spacing="0.3">@FraisAsghar</text>
+  <!-- Divider -->
+  <line x1="600" y1="330" x2="814" y2="330" stroke="#FF0000" stroke-opacity="0.2" stroke-width="0.5"/>
+  <!-- Footer -->
+  <text x="600" y="347" font-size="10" fill="#FF5252" letter-spacing="0.5">Subscribe  ↗</text>
+  <text x="790" y="347" text-anchor="end" font-size="9" fill="#FF5252" fill-opacity="0.45" letter-spacing="0.3">Uploading...</text>
+
+  <!-- Bottom label -->
+  <text x="430" y="400" text-anchor="middle" font-size="9" fill="#ffffff" fill-opacity="0.12" letter-spacing="3">FRAIS ASGHAR  ·  ALL CHANNELS ACTIVE</text>
+</svg>
