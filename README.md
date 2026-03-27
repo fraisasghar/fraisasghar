@@ -257,13 +257,13 @@
       <img width="259" height="264" alt="Mail 2 Card" src="https://github.com/user-attachments/assets/6f1c49be-0ee5-45cf-aa0a-f875b734b2d7" />
     </a>
     <a href="https://wa.me/923266367678?text=Hello%20Frais">
-      <img width="251" height="264" alt="WhatsApp Card" src="https://github.com/user-attachments/assets/692a375b-96f3-4a20-9517-f2c5e41690a4" />
+      <img width="240" height="274" alt="WhatsApp Card" src="https://github.com/user-attachments/assets/692a375b-96f3-4a20-9517-f2c5e41690a4" />
     </a>
     <a href="https://discord.com/channels/1407742708964917388/1407742710097514628">
-      <img width="255" height="264" alt="Discord Card" src="https://github.com/user-attachments/assets/dfc219ff-9300-421a-8779-feaaed15e1ce" />
+      <img width="265" height="274" alt="Discord Card" src="https://github.com/user-attachments/assets/dfc219ff-9300-421a-8779-feaaed15e1ce" />
     </a>
     <a href="http://www.youtube.com/@FraisAsghar">
-      <img width="258" height="264" alt="YouTube Card" src="https://github.com/user-attachments/assets/18b0e251-c167-4ed0-bd75-313810edd785" />
+      <img width="265" height="274" alt="YouTube Card" src="https://github.com/user-attachments/assets/18b0e251-c167-4ed0-bd75-313810edd785" />
     </a>
   </div>
 </div>
