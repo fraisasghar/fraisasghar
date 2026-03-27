@@ -43,6 +43,9 @@
 <p align=" center">
   <a href="https://profile-summary-for-github.com/user/fraisasghar">
     <img src="https://img.shields.io/badge/Profile_Summary-Click_Here-00a8ff?style=for-the-badge&logo=github&logoColor=white" alt="Profile Summary" />
+    <img src="https://komarev.com/ghpvc/?username=fraisasghar&label=Profile%20Views&color=056d05&style=for-the-badge" height="50"/>
+    <img src="https://img.shields.io/github/followers/fraisasghar?label=Followers&color=056d05&style=for-the-badge&logo=github&logoColor=white" height="50"/>
+   <img src="https://img.shields.io/github/stars/fraisasghar?label=Total%20Stars&color=056d05&style=for-the-badge&logo=star&logoColor=white" height="50"/>
   </a>
 </p>
 
@@ -242,56 +245,28 @@
 
 
 
-
-
-<p align="center">
-
-<table align="center" cellpadding="0" cellspacing="0" border="0">
-<tr>
-
-<td width="260" style="padding:8px">
-<a href="https://www.linkedin.com/in/frais-asghar202" target="_blank">
-<img src="https://img.shields.io/badge/-%230A1628?style=for-the-badge&logoColor=white&label=%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0&labelColor=0A66C2" width="100%" height="4" alt=""/>
-<img src="https://img.shields.io/badge/LinkedIn-frais--asghar202-0A1628?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=0A1628" width="100%" alt="LinkedIn"/><br/>
-<img src="https://img.shields.io/badge/Connect%20%E2%86%97-Open%20to%20Work-053A6E?style=for-the-badge&logoColor=7AB8F5&labelColor=060e1a&color=053A6E" width="100%" alt="status"/>
-</a>
-</td>
-
-<td width="260" style="padding:8px">
-<a href="mailto:fraisasghar202@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/-%231A0A08?style=for-the-badge&logoColor=white&label=%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0&labelColor=B23121" width="100%" height="4" alt=""/>
-<img src="https://img.shields.io/badge/Mail%201-fraisasghar202%40gmail.com-1A0A08?style=for-the-badge&logo=gmail&logoColor=B23121&labelColor=1A0A08" width="100%" alt="Mail 1"/><br/>
-<img src="https://img.shields.io/badge/Send%20Mail%20%E2%86%97-Active-6B1D10?style=for-the-badge&logoColor=FF8A75&labelColor=110600&color=6B1D10" width="100%" alt="status"/>
-</a>
-</td>
-
-
-
-
-
-<td width="260" style="padding:8px">
-<a href="https://wa.me/923266367678?text=Hello%20Frais" target="_blank">
-<img src="https://img.shields.io/badge/-%23040f09?style=for-the-badge&logoColor=white&label=%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0&labelColor=25D366" width="100%" height="4" alt=""/>
-<img src="https://img.shields.io/badge/WhatsApp-%2B92%20326%20636%207678-040f09?style=for-the-badge&logo=whatsapp&logoColor=25D366&labelColor=040f09" width="100%" alt="WhatsApp"/><br/>
-<img src="https://img.shields.io/badge/Message%20%E2%86%97-Available-0D2318?style=for-the-badge&logoColor=4DFF91&labelColor=040f09&color=0D2318" width="100%" alt="status"/>
-</a>
-</td>
-
-
-<td width="260" style="padding:8px">
-<a href="http://www.youtube.com/@FraisAsghar" target="_blank">
-<img src="https://img.shields.io/badge/-%230f0000?style=for-the-badge&logoColor=white&label=%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0&labelColor=FF0000" width="100%" height="4" alt=""/>
-<img src="https://img.shields.io/badge/YouTube-%40FraisAsghar-0f0000?style=for-the-badge&logo=youtube&logoColor=FF5252&labelColor=0f0000" width="100%" alt="YouTube"/><br/>
-<img src="https://img.shields.io/badge/Subscribe%20%E2%86%97-Uploading...-1A0000?style=for-the-badge&logoColor=FF5252&labelColor=0f0000&color=1A0000" width="100%" alt="status"/>
-</a>
-</td>
-
-
-</tr>
-</table>
-
-</p>
-
+<div align="center">
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; max-width: 900px; margin: 0 auto;">
+    <a href="https://www.linkedin.com/in/frais-asghar202">
+      <img width="252" height="264" alt="LinkedIn Card" src="https://github.com/user-attachments/assets/149df2a6-80ab-4c0f-b1ca-fafc8f2dbf40" />
+    </a>
+    <a href="mailto:fraisasghar202@gmail.com">
+      <img width="259" height="264" alt="Mail 1 Card" src="https://github.com/user-attachments/assets/571fbdb2-3561-4ccc-92de-d736fcd4d800" />
+    </a>
+    <a href="mailto:fraisasghar404@gmail.com">
+      <img width="259" height="264" alt="Mail 2 Card" src="https://github.com/user-attachments/assets/6f1c49be-0ee5-45cf-aa0a-f875b734b2d7" />
+    </a>
+    <a href="https://wa.me/923266367678?text=Hello%20Frais">
+      <img width="251" height="264" alt="WhatsApp Card" src="https://github.com/user-attachments/assets/692a375b-96f3-4a20-9517-f2c5e41690a4" />
+    </a>
+    <a href="https://discord.com/channels/1407742708964917388/1407742710097514628">
+      <img width="255" height="264" alt="Discord Card" src="https://github.com/user-attachments/assets/dfc219ff-9300-421a-8779-feaaed15e1ce" />
+    </a>
+    <a href="http://www.youtube.com/@FraisAsghar">
+      <img width="258" height="264" alt="YouTube Card" src="https://github.com/user-attachments/assets/18b0e251-c167-4ed0-bd75-313810edd785" />
+    </a>
+  </div>
+</div>
 
 
 
@@ -323,47 +298,12 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0D0D0D&height=3&width=100%&section=footer"/>
 </div>
 
----
-<!-- Collaboration Ready -->
-<div align="center"><h2 align="center" style="display:inline-flex;align-items:center;margin:0;padding:0"><span style="color:#32CD32;font-size:28px;margin:0;padding:0">✦</span><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2000&pause=1000&color=32CD32&center=true&vCenter=true&width=340&lines=Collaboration%20Ready" alt="Collaboration Ready" style="vertical-align:middle;margin:0;padding:0"/><span style="color:#32CD32;font-size:28px;margin:0;padding:0">✦</span></h2></div>
-
-<div align="center">
-
-<!-- Main Banner – Perfect Green -->
-<img src="https://img.shields.io/badge/OPEN_TO_COLLABORATION-056d05?style=for-the-badge&logo=handshake&logoColor=white&labelColor=056d05&color=1DB954" height="60"/><br>
-
-<!-- Stats – Big & Clean -->
-<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-  <img src="https://komarev.com/ghpvc/?username=fraisasghar&label=Profile%20Views&color=056d05&style=for-the-badge" height="50"/>
-  <img src="https://img.shields.io/github/followers/fraisasghar?label=Followers&color=056d05&style=for-the-badge&logo=github&logoColor=white" height="50"/>
-  <img src="https://img.shields.io/github/stars/fraisasghar?label=Total%20Stars&color=056d05&style=for-the-badge&logo=star&logoColor=white" height="50"/>
-</div>
-
-<br>
 
 <!-- Final Call to Action – Killer Button -->
 <a href="mailto:fraisasghar202@gmail.com">
-  <img src="https://img.shields.io/badge/LET'S_BUILD_TOGETHER-056d05?style=for-the-badge&logo=rocket&logoColor=white&labelColor=056d05&color=1DB954" height="60"/>
+  <img src="https://img.shields.io/badge/LET'S_BUILD_TOGETHER-056d05?style=for-the-badge&logo=rocket&logoColor=white&labelColor=056d05&color=B22222" height="60"/>
 </a>
 
-<br><br>
-<div align="center">
-  <a href="https://www.linkedin.com/in/frais-asghar202/" target=" ">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://discord.com/channels/1407742708964917388/1407742710097514628" target=" ">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  </a>
-  <a href="http://www.youtube.com/@FraisAsghar" target=" ">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-  </a>
-  <a href="https://mail.google.com/mail/u/0/?hl=en#inbox" target=" ">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-  <a href="https://wa.link/00tuak" target=" ">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo" />
-  </a>
-</div>
 
 ###
 <!-- Text -->
