@@ -228,7 +228,11 @@
 
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2000&pause=800&color=FF0000&center=true&vCenter=true&width=520&lines=%E2%95%94%E2%95%90%E2%95%90%E2%95%90+CONNECT+WITH+ME+%E2%95%90%E2%95%90%E2%95%90%E2%95%97" alt="Connect With Me"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=28&duration=3000&pause=1500&color=FF0000&center=true&vCenter=true&width=620&lines=%5B+CONNECT_WITH_ME+%5D;%5B+LET%27S_COLLABORATE+%5D;%5B+REACH_OUT+%5D" alt="Connect With Me"/>
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=12&duration=4000&pause=2000&color=444444&center=true&vCenter=true&width=700&lines=%E2%96%BA+initializing+contact+protocols...+%E2%96%BA+all+channels+active+%E2%96%BA+ready+to+receive" alt=""/>
 </div>
 
 
@@ -260,16 +264,9 @@
 </a>
 </td>
 
-<td width="260" style="padding:8px">
-<a href="mailto:fraisasghar404@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/-%23150A1A?style=for-the-badge&logoColor=white&label=%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0&labelColor=4A0E4E" width="100%" height="4" alt=""/>
-<img src="https://img.shields.io/badge/Mail%202-fraisasghar404%40gmail.com-150A1A?style=for-the-badge&logo=gmail&logoColor=CE93D8&labelColor=150A1A" width="100%" alt="Mail 2"/><br/>
-<img src="https://img.shields.io/badge/Send%20Mail%20%E2%86%97-Active-2A0830?style=for-the-badge&logoColor=CE93D8&labelColor=0e0514&color=2A0830" width="100%" alt="status"/>
-</a>
-</td>
 
-</tr>
-<tr>
+
+
 
 <td width="260" style="padding:8px">
 <a href="https://wa.me/923266367678?text=Hello%20Frais" target="_blank">
@@ -279,13 +276,6 @@
 </a>
 </td>
 
-<td width="260" style="padding:8px">
-<a href="https://discord.com/channels/1407742708964917388/1407742710097514628" target="_blank">
-<img src="https://img.shields.io/badge/-%2307080f?style=for-the-badge&logoColor=white&label=%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0&labelColor=5865F2" width="100%" height="4" alt=""/>
-<img src="https://img.shields.io/badge/Discord-Frais%20Asghar-07080f?style=for-the-badge&logo=discord&logoColor=8A94FF&labelColor=07080f" width="100%" alt="Discord"/><br/>
-<img src="https://img.shields.io/badge/Join%20Server%20%E2%86%97-Online-0E0F1A?style=for-the-badge&logoColor=8A94FF&labelColor=07080f&color=0E0F1A" width="100%" alt="status"/>
-</a>
-</td>
 
 <td width="260" style="padding:8px">
 <a href="http://www.youtube.com/@FraisAsghar" target="_blank">
@@ -294,6 +284,7 @@
 <img src="https://img.shields.io/badge/Subscribe%20%E2%86%97-Uploading...-1A0000?style=for-the-badge&logoColor=FF5252&labelColor=0f0000&color=1A0000" width="100%" alt="status"/>
 </a>
 </td>
+
 
 </tr>
 </table>
