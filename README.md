@@ -27,7 +27,6 @@
   <img width="45" height="40" alt="Image" src="https://github.com/user-attachments/assets/2300ebb2-87ec-4da9-9913-c28857ceebb0" />
   <img width="40" height="40" alt="Image" src="https://github.com/user-attachments/assets/bf7c8cfc-94db-4595-8324-3eb0c2b7dbd9" />
   <img width="40" height="40" alt="Image" src="https://github.com/user-attachments/assets/ca2eb684-7441-4b5f-a3a0-78208a9c03e7" />
-  <img width="40" height="40" alt="Image" src="https://github.com/user-attachments/assets/bb7d33a2-5385-4b2e-82ff-8d02b8df486c" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="40" alt="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="40" alt="Git"/>
