@@ -225,9 +225,7 @@
 <!--                      CONNECT WITH ME                          -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0D0D0D&height=3&width=100%&section=header"/>
-</div>
+
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2000&pause=800&color=FF0000&center=true&vCenter=true&width=520&lines=%E2%95%94%E2%95%90%E2%95%90%E2%95%90+CONNECT+WITH+ME+%E2%95%90%E2%95%90%E2%95%90%E2%95%97" alt="Connect With Me"/>
@@ -236,6 +234,71 @@
 
 
 
+
+
+
+
+
+<p align="center">
+
+<table align="center" cellpadding="0" cellspacing="0" border="0">
+<tr>
+
+<td width="260" style="padding:8px">
+<a href="https://www.linkedin.com/in/frais-asghar202" target="_blank">
+<img src="https://img.shields.io/badge/-%230A1628?style=for-the-badge&logoColor=white&label=%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0&labelColor=0A66C2" width="100%" height="4" alt=""/>
+<img src="https://img.shields.io/badge/LinkedIn-frais--asghar202-0A1628?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=0A1628" width="100%" alt="LinkedIn"/><br/>
+<img src="https://img.shields.io/badge/Connect%20%E2%86%97-Open%20to%20Work-053A6E?style=for-the-badge&logoColor=7AB8F5&labelColor=060e1a&color=053A6E" width="100%" alt="status"/>
+</a>
+</td>
+
+<td width="260" style="padding:8px">
+<a href="mailto:fraisasghar202@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/-%231A0A08?style=for-the-badge&logoColor=white&label=%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0&labelColor=B23121" width="100%" height="4" alt=""/>
+<img src="https://img.shields.io/badge/Mail%201-fraisasghar202%40gmail.com-1A0A08?style=for-the-badge&logo=gmail&logoColor=B23121&labelColor=1A0A08" width="100%" alt="Mail 1"/><br/>
+<img src="https://img.shields.io/badge/Send%20Mail%20%E2%86%97-Active-6B1D10?style=for-the-badge&logoColor=FF8A75&labelColor=110600&color=6B1D10" width="100%" alt="status"/>
+</a>
+</td>
+
+<td width="260" style="padding:8px">
+<a href="mailto:fraisasghar404@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/-%23150A1A?style=for-the-badge&logoColor=white&label=%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0&labelColor=4A0E4E" width="100%" height="4" alt=""/>
+<img src="https://img.shields.io/badge/Mail%202-fraisasghar404%40gmail.com-150A1A?style=for-the-badge&logo=gmail&logoColor=CE93D8&labelColor=150A1A" width="100%" alt="Mail 2"/><br/>
+<img src="https://img.shields.io/badge/Send%20Mail%20%E2%86%97-Active-2A0830?style=for-the-badge&logoColor=CE93D8&labelColor=0e0514&color=2A0830" width="100%" alt="status"/>
+</a>
+</td>
+
+</tr>
+<tr>
+
+<td width="260" style="padding:8px">
+<a href="https://wa.me/923266367678?text=Hello%20Frais" target="_blank">
+<img src="https://img.shields.io/badge/-%23040f09?style=for-the-badge&logoColor=white&label=%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0&labelColor=25D366" width="100%" height="4" alt=""/>
+<img src="https://img.shields.io/badge/WhatsApp-%2B92%20326%20636%207678-040f09?style=for-the-badge&logo=whatsapp&logoColor=25D366&labelColor=040f09" width="100%" alt="WhatsApp"/><br/>
+<img src="https://img.shields.io/badge/Message%20%E2%86%97-Available-0D2318?style=for-the-badge&logoColor=4DFF91&labelColor=040f09&color=0D2318" width="100%" alt="status"/>
+</a>
+</td>
+
+<td width="260" style="padding:8px">
+<a href="https://discord.com/channels/1407742708964917388/1407742710097514628" target="_blank">
+<img src="https://img.shields.io/badge/-%2307080f?style=for-the-badge&logoColor=white&label=%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0&labelColor=5865F2" width="100%" height="4" alt=""/>
+<img src="https://img.shields.io/badge/Discord-Frais%20Asghar-07080f?style=for-the-badge&logo=discord&logoColor=8A94FF&labelColor=07080f" width="100%" alt="Discord"/><br/>
+<img src="https://img.shields.io/badge/Join%20Server%20%E2%86%97-Online-0E0F1A?style=for-the-badge&logoColor=8A94FF&labelColor=07080f&color=0E0F1A" width="100%" alt="status"/>
+</a>
+</td>
+
+<td width="260" style="padding:8px">
+<a href="http://www.youtube.com/@FraisAsghar" target="_blank">
+<img src="https://img.shields.io/badge/-%230f0000?style=for-the-badge&logoColor=white&label=%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0&labelColor=FF0000" width="100%" height="4" alt=""/>
+<img src="https://img.shields.io/badge/YouTube-%40FraisAsghar-0f0000?style=for-the-badge&logo=youtube&logoColor=FF5252&labelColor=0f0000" width="100%" alt="YouTube"/><br/>
+<img src="https://img.shields.io/badge/Subscribe%20%E2%86%97-Uploading...-1A0000?style=for-the-badge&logoColor=FF5252&labelColor=0f0000&color=1A0000" width="100%" alt="status"/>
+</a>
+</td>
+
+</tr>
+</table>
+
+</p>
 
 
 
@@ -264,12 +327,11 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"/>
   </a>
 </div>
-
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0D0D0D&height=3&width=100%&section=footer"/>
 </div>
 
-
+---
 <!-- Collaboration Ready -->
 <div align="center"><h2 align="center" style="display:inline-flex;align-items:center;margin:0;padding:0"><span style="color:#32CD32;font-size:28px;margin:0;padding:0">✦</span><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2000&pause=1000&color=32CD32&center=true&vCenter=true&width=340&lines=Collaboration%20Ready" alt="Collaboration Ready" style="vertical-align:middle;margin:0;padding:0"/><span style="color:#32CD32;font-size:28px;margin:0;padding:0">✦</span></h2></div>
 
