@@ -25,12 +25,12 @@
 <!-- Tech Stack -->
 ### **TECHNOLOGY STACK**
 <div align="center">
-  <img src="https://img.shields.io/badge/SolidWorks-FF9900?style=flat-square&logo=solidworks&logoColor=black" />
-  <img src="https://img.shields.io/badge/ANSYS-FF6C37?style=flat-square&logo=ansys&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/AutoCAD-E51937?style=flat-square&logo=autocad&logoColor=white" />
-  <img src="https://img.shields.io/badge/AutoDesk_CFD-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+  <img width="70" height="50" alt="Image" src="https://github.com/user-attachments/assets/ebef6db6-902c-4f0d-a217-e1e48c72bfd9" />
+  <img width="40" height="40" alt="Image" src="https://github.com/user-attachments/assets/5a3de545-1ca4-4297-b8a6-55fbb863c38e" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansys/ansys-original.svg" width="40" height="40" alt="ANSYS"/>
+  <img width="40" height="40" alt="Image" src="https://github.com/user-attachments/assets/0fa3c284-fce8-4296-97c7-ce4b9004886f" />
+  <img width="50" height="40" alt="Image" src="https://github.com/user-attachments/assets/dc021fe9-d702-4f3f-a227-2702adbac19f" />
+  <img width="50" height="40" alt="Image" src="https://github.com/user-attachments/assets/7e32a00e-3f49-4623-9100-b7134fb4db25" />
   <img src="https://img.shields.io/badge/EES-00758F?style=flat-square&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </div>
