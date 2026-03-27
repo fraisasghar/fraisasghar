@@ -221,42 +221,54 @@
 
 ---
 
-<!-- Connect With Me -->
-<div align="center"><h2 align="center" style="display:inline-flex;align-items:center;margin:0;padding:0"><span style="color:#FF0000;font-size:28px;margin:0;padding:0">✦</span><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2000&pause=1000&color=FF0000&center=true&vCenter=true&width=320&lines=Connect%20With%20Me" alt="Connect With Me" style="vertical-align:middle;margin:0;padding:0"/><span style="color:#FF0000;font-size:28px;margin:0;padding:0">✦</span></h2></div>
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                      CONNECT WITH ME                          -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0D0D0D&height=3&width=100%&section=header"/>
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2000&pause=800&color=FF0000&center=true&vCenter=true&width=520&lines=%E2%95%94%E2%95%90%E2%95%90%E2%95%90+CONNECT+WITH+ME+%E2%95%90%E2%95%90%E2%95%90%E2%95%97" alt="Connect With Me"/>
+</div>
+
+
+
+
+
+
+
+
+
 
 
 
 <div align="center">
-
-| Connected Platforms | Badges | Links |
-|----------|--------|------|
-| LinkedIn Profile  | <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" width="122" height="100" /> | [linkedin.com/in/frais-asghar202](https://www.linkedin.com/in/frais-asghar202) |
-| Email 1 | <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" width="122" height="90"/> | fraisasghar202@gmail.com |
-| Email 2 | <img src="https://img.shields.io/badge/Email-8B0000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email 2" width="122" height="90"/> | fraisasghar404@gmail.com |
-| Phone/ Contact | <img src="https://img.shields.io/badge/Call-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone" width="122" height="36"/> | 03266367678 |
-
+  <a href="https://www.linkedin.com/in/frais-asghar202/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://discord.com/channels/1407742708964917388/1407742710097514628" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"/>
+  </a>&nbsp;&nbsp;
+  <a href="http://www.youtube.com/@FraisAsghar" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"/>
+  </a>&nbsp;&nbsp;
+  <a href="mailto:fraisasghar202@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="mail 1 logo"/>
+  </a>&nbsp;&nbsp;
+  <a href="mailto:fraisasghar404@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="mail 2 logo" style="filter:hue-rotate(270deg)"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://wa.me/923266367678?text=Hello%20Frais" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"/>
+  </a>
 </div>
-
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/frais-asghar202/" target=" ">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://discord.com/channels/1407742708964917388/1407742710097514628" target=" ">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  </a>
-  <a href="http://www.youtube.com/@FraisAsghar" target=" ">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-  </a>
-  <a href="https://mail.google.com/mail/u/0/?hl=en#inbox" target=" ">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-  <a href="https://wa.link/00tuak" target=" ">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
-  </a>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0D0D0D&height=3&width=100%&section=footer"/>
 </div>
 
----
 
 <!-- Collaboration Ready -->
 <div align="center"><h2 align="center" style="display:inline-flex;align-items:center;margin:0;padding:0"><span style="color:#32CD32;font-size:28px;margin:0;padding:0">✦</span><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2000&pause=1000&color=32CD32&center=true&vCenter=true&width=340&lines=Collaboration%20Ready" alt="Collaboration Ready" style="vertical-align:middle;margin:0;padding:0"/><span style="color:#32CD32;font-size:28px;margin:0;padding:0">✦</span></h2></div>
