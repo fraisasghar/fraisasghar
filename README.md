@@ -119,10 +119,10 @@
 
 <div align="center">
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; max-width: 900px; margin: 0 auto;">
-    <a href="#"><img src="skills-cards/machining-card.png" width="210" height="219" alt="Machining"></a>
-    <a href="#"><img src="skills-cards/fabrication-card.png" width="210" height="219" alt="Fabrication"></a>
-    <a href="#"><img src="skills-cards/measurement-card.png" width="210" height="219" alt="Measurement"></a>
-    <a href="#"><img src="skills-cards/training-card.png" width="210" height="219" alt="Training"></a>
+    <a href="#"><img src="skills-cards/machining-card.png" width="200" height="209" alt="Machining"></a>
+    <a href="#"><img src="skills-cards/fabrication-card.png" width="200" height="209" alt="Fabrication"></a>
+    <a href="#"><img src="skills-cards/measurement-card.png" width="200" height="209" alt="Measurement"></a>
+    <a href="#"><img src="skills-cards/training-card.png" width="200" height="209" alt="Training"></a>
   </div>
 </div>
 
