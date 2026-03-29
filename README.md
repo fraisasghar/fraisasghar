@@ -129,20 +129,15 @@
 ---
 
 ## Professional Highlights
-<br/>
 
 <div align="center">
-
-| **Category** | **Expertise** |
-|:------------:|:--------------|
-| **Practical Manufacturing** | <img src="https://img.shields.io/badge/Hands--on%20Industrial%20Experience-8B0000?style=for-the-badge&logoColor=white"/> <img src="https://img.shields.io/badge/Equipment%20%26%20Machine%20Operations-B22222?style=for-the-badge&logoColor=white"/> <img src="https://img.shields.io/badge/Manufacturing%20Processes-9B2C2C?style=for-the-badge&logoColor=white"/> |
-| **Problem Solving** | <img src="https://img.shields.io/badge/Technical%20Problem%20Solving-2E6B3E?style=for-the-badge&logoColor=white"/> <img src="https://img.shields.io/badge/Systematic%20Engineering%20Approach-2D6A4F?style=for-the-badge&logoColor=white"/> <img src="https://img.shields.io/badge/Analytical%20Thinking-3C8D6E?style=for-the-badge&logoColor=white"/> |
-| **Software & Tools** | <img src="https://img.shields.io/badge/SolidWorks-1E3A8A?style=for-the-badge&logoColor=white"/> <img src="https://img.shields.io/badge/AutoCAD-0A2F44?style=for-the-badge&logoColor=white"/> <img src="https://img.shields.io/badge/ANSYS-2C6E8F?style=for-the-badge&logoColor=white"/> <img src="https://img.shields.io/badge/FEA%20Analysis-1E5B7A?style=for-the-badge&logoColor=white"/> <img src="https://img.shields.io/badge/Python%20%7C%20C%2B%2B-6B3E8A?style=for-the-badge&logoColor=white"/> <img src="https://img.shields.io/badge/Project%20Management-4A1D6D?style=for-the-badge&logoColor=white"/> |
-| **Artificial Intelligence** | <img src="https://img.shields.io/badge/Machine%20Learning%20%26%20Deep%20Learning-CC7B2C?style=for-the-badge&logoColor=white"/> <img src="https://img.shields.io/badge/AI%20in%20Engineering-B85A1A?style=for-the-badge&logoColor=white"/> <img src="https://img.shields.io/badge/Generative%20AI%20Tools-2C6E8F?style=for-the-badge&logoColor=white"/> |
-
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 12px; margin: 20px 0;">
+    <img src="Professional HIghlight Cards/practical-manufacturing-card.png" alt="Practical Manufacturing">
+    <img src="Professional HIghlight Cards/problem-solving-card.png"  alt="Problem Solving">
+    <img src="Professional HIghlight Cards/software-tools.png" alt="Software & Tools">
+    <img src="Professional HIghlight Cards/ai-card.png" alt="Artificial Intelligence">
+  </div>
 </div>
-
-<br/>
 
 
 <!-- Activity visulization -->
