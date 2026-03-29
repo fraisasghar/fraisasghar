@@ -132,10 +132,10 @@
 
 <div align="center">
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 12px; margin: 20px 0;">
-    <img src="Professional HIghlight Cards/practical-manufacturing-card.png" width="210" alt="Practical Manufacturing">
-    <img src="Professional HIghlight Cards/problem-solving-card.png" width="220" alt="Problem Solving">
-    <img src="Professional HIghlight Cards/software-tools.png" width="220" alt="Software & Tools">
-    <img src="Professional HIghlight Cards/ai-card.png" width="210" alt="Artificial Intelligence">
+    <img src="Professional HIghlight Cards/practical-manufacturing-card.png" width="220" alt="Practical Manufacturing">
+    <img src="Professional HIghlight Cards/problem-solving-card.png" width="210" alt="Problem Solving">
+    <img src="Professional HIghlight Cards/software-tools.png" width="210" alt="Software & Tools">
+    <img src="Professional HIghlight Cards/ai-card.png" width="220" alt="Artificial Intelligence">
   </div>
 </div>
 
