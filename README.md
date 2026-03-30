@@ -5,9 +5,12 @@
   </h2>
 </div>
 
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00cfff,100:0047ab&height=220&section=header&text=I'm%20Frais%20Asghar&fontSize=64&fontAlign=50&fontAlignY=60&animation=fadeIn&fontColor=ffffff&desc=Mechanical%20Engineer%20|%20Solid%20Works%20|%20Ansys%20|%20AutoCAD&descAlign=50&descAlignY=88&descSize=26&descColor=a0e0ff&shadow=true" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:90EE90,100:228B22&height=220&section=header&text=I'm%20Frais%20Asghar&fontSize=64&fontAlign=50&fontAlignY=60&animation=fadeIn&fontColor=ffffff&desc=Mechanical%20Engineer%20|%20Solid%20Works%20|%20Ansys%20|%20AutoCAD&descAlign=50&descAlignY=88&descSize=26&descColor=a0e0ff&shadow=true" alt="Header" />
 </div>
+
+
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Bridging+Design+to+Manufacture;Leveraging+AI+in+Engineering;Solving+Complex+Technical+Problems;Innovating+Manufacturing+Processes" alt="Typing SVG" />
