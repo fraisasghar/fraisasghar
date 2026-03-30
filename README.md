@@ -118,33 +118,24 @@
 ## Manufacturing & Engineering Expertise
 
 <div align="center">
-
-| **Expertise Area** | **Skills & Experience** |
-|:------------------:|:-----------------------|
-| **Machining** | <img src="https://img.shields.io/badge/Lathe%20Machine-B22222?style=for-the-badge&logoColor=white&color=8B1A1A"/> <img src="https://img.shields.io/badge/Milling%20Machine-2E8B57?style=for-the-badge&logoColor=white&color=1E6B3E"/> <img src="https://img.shields.io/badge/CNC%20Machining-1E3A8A?style=for-the-badge&logoColor=white&color=0F2B6B"/> <img src="https://img.shields.io/badge/Drilling%20&Bench%20Fitting-CC7B2C?style=for-the-badge&logoColor=white&color=AA5A1A"/> <img src="https://img.shields.io/badge/Electroplating-CD6090?style=for-the-badge&logoColor=white&color=9B2C2C"/> |
-| **Fabrication** | <img src="https://img.shields.io/badge/Arc%20Welding-E36C2C?style=for-the-badge&logoColor=white&color=C34C1A"/> <img src="https://img.shields.io/badge/Gas%20Welding-ED8B2B?style=for-the-badge&logoColor=white&color=CD6A1A"/> <img src="https://img.shields.io/badge/Casting%20Processes-4A1D6D?style=for-the-badge&logoColor=white&color=4A1D6D"/> <img src="https://img.shields.io/badge/Forging%20Techniques-9B6E4A?style=for-the-badge&logoColor=white&color=2C3539"/> <img src="https://img.shields.io/badge/Paint%20Workshop-BF6B8A?style=for-the-badge&logoColor=white&color=2C6E8F"/> |
-| **Measurement** | <img src="https://img.shields.io/badge/Digital%20Calipers-D45C2C?style=for-the-badge&logoColor=white&color=B43C1A"/> <img src="https://img.shields.io/badge/vernior%20&%20Screw%20Gauges-3A7B9B?style=for-the-badge&logoColor=white&color=1E5B7A"/> <img src="https://img.shields.io/badge/Depth%20Gauges-4C9B7A?style=for-the-badge&logoColor=white&color=0F52BA"/> <img src="https://img.shields.io/badge/Height%20Gauges-ECB83A?style=for-the-badge&logoColor=black&color=CC981A"/> <img src="https://img.shields.io/badge/Pitch%20Gauges-B57A9B?style=for-the-badge&logoColor=white&color=8A3A6E"/> |
-| **Workshop Training** | <img src="https://img.shields.io/badge/4.5%20Months%20Manufacturing%20Training-AF6B8E?style=for-the-badge&logoColor=white&color=1B4D3E"/> <img src="https://img.shields.io/badge/30%20Days%20AI%20Workshop-6B8F8E?style=for-the-badge&logoColor=white&color=9B2C2C"/> <img src="https://img.shields.io/badge/4.5%20Month%20Community%20Service-6B8F8E?style=for-the-badge&logoColor=white&color=0A2F44"/> |
-
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; max-width: 900px; margin: 0 auto;">
+    <img src="skills-cards/machining-card.png" width="220" alt="Machining">
+    <img src="skills-cards/fabrication-card.png" width="220" alt="Fabrication">
+    <img src="skills-cards/measurement-card.png" width="220" alt="Measurement">
+    <img src="skills-cards/training-card.png" width="220" alt="Training">
+  </div>
 </div>
-
----
 
 ## Professional Highlights
-<br/>
 
 <div align="center">
-
-| **Category** | **Expertise** |
-|:------------:|:--------------|
-| **Practical Manufacturing** | <img src="https://img.shields.io/badge/Hands--on%20Industrial%20Experience-8B0000?style=for-the-badge&logoColor=white"/> <img src="https://img.shields.io/badge/Equipment%20%26%20Machine%20Operations-B22222?style=for-the-badge&logoColor=white"/> <img src="https://img.shields.io/badge/Manufacturing%20Processes-9B2C2C?style=for-the-badge&logoColor=white"/> |
-| **Problem Solving** | <img src="https://img.shields.io/badge/Technical%20Problem%20Solving-2E6B3E?style=for-the-badge&logoColor=white"/> <img src="https://img.shields.io/badge/Systematic%20Engineering%20Approach-2D6A4F?style=for-the-badge&logoColor=white"/> <img src="https://img.shields.io/badge/Analytical%20Thinking-3C8D6E?style=for-the-badge&logoColor=white"/> |
-| **Software & Tools** | <img src="https://img.shields.io/badge/SolidWorks-1E3A8A?style=for-the-badge&logoColor=white"/> <img src="https://img.shields.io/badge/AutoCAD-0A2F44?style=for-the-badge&logoColor=white"/> <img src="https://img.shields.io/badge/ANSYS-2C6E8F?style=for-the-badge&logoColor=white"/> <img src="https://img.shields.io/badge/FEA%20Analysis-1E5B7A?style=for-the-badge&logoColor=white"/> <img src="https://img.shields.io/badge/Python%20%7C%20C%2B%2B-6B3E8A?style=for-the-badge&logoColor=white"/> <img src="https://img.shields.io/badge/Project%20Management-4A1D6D?style=for-the-badge&logoColor=white"/> |
-| **Artificial Intelligence** | <img src="https://img.shields.io/badge/Machine%20Learning%20%26%20Deep%20Learning-CC7B2C?style=for-the-badge&logoColor=white"/> <img src="https://img.shields.io/badge/AI%20in%20Engineering-B85A1A?style=for-the-badge&logoColor=white"/> <img src="https://img.shields.io/badge/Generative%20AI%20Tools-2C6E8F?style=for-the-badge&logoColor=white"/> |
-
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin: 20px 0;">
+    <img src="skills-cards/practical-manufacturing-card.png" width="220" alt="Practical Manufacturing">
+    <img src="skills-cards/problem-solving-card.png" width="220" alt="Problem Solving">
+    <img src="skills-cards/software-tools-card.png" width="220" alt="Software & Tools">
+    <img src="skills-cards/ai-card.png" width="220" alt="Artificial Intelligence">
+  </div>
 </div>
-
-<br/>
 
 <!-- Activity visulization -->
 
