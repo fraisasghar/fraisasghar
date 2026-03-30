@@ -136,7 +136,13 @@
   </div>
 </div>
 
-<!-- Activity visulization -->
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                     Github Analytics                          -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
 
 <div align="center">
   <h2 align="center">
@@ -145,29 +151,7 @@
     <span style="color: #32CD32;">✦</span>
   </h2>
 </div>
-  
 
-
-<!-- Animated Pacman Style -->
-<br>
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
-</picture>
-
-</div>
-
-
----
-
-<!-- Github Analytics -->
-<div align="center">
-<h2 align="center" style="display:flex;align-items:center;justify-content:center;gap:15px;">
-<span style="color:#0366d6;font-size:28px;">✦</span><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2000&pause=1000&color=0366d6&center=true&vCenter=true&width=330&height=50&lines=GitHub+Analytics" alt="GitHub Analytics" style="vertical-align:middle;"/><span style="color:#0366d6;font-size:28px;">✦</span>
-</h2>
-</div>
 
 
 <div align="center">
@@ -294,14 +278,20 @@
 
 
 
-
-
-
-
-
 ## GitHub Stats & Trophies
 <div align="center">
   <img src="profile-3d-city.svg" alt="3D City" width="100%" />
 </div>
 
+
+<!-- Animated Pacman Style -->
+<br>
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
 
