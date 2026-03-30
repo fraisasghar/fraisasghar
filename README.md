@@ -119,10 +119,10 @@
 
 <div align="center">
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; max-width: 900px; margin: 0 auto;">
-    <img src="skills-cards/machining-card.png" width="220" alt="Machining">
-    <img src="skills-cards/fabrication-card.png" width="220" alt="Fabrication">
-    <img src="skills-cards/measurement-card.png" width="220" alt="Measurement">
-    <img src="skills-cards/training-card.png" width="220" alt="Training">
+    <img src="skills-cards/machining-card.png" width="217" alt="Machining">
+    <img src="skills-cards/fabrication-card.png" width="217" alt="Fabrication">
+    <img src="skills-cards/measurement-card.png" width="217" alt="Measurement">
+    <img src="skills-cards/training-card.png" width="217" alt="Training">
   </div>
 </div>
 
@@ -130,10 +130,9 @@
 
 <div align="center">
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin: 20px 0;">
-    <img src="skills-cards/practical-manufacturing-card.png" width="220" alt="Practical Manufacturing">
-    <img src="skills-cards/problem-solving-card.png" width="220" alt="Problem Solving">
-    <img src="skills-cards/software-tools-card.png" width="220" alt="Software & Tools">
-    <img src="skills-cards/ai-card.png" width="220" alt="Artificial Intelligence">
+    <img src="Professional HIghlight Cards/practical-manufacturing-card.png" width="240" alt="Practical Manufacturing">
+    <img src="Professional HIghlight Cards/software-tools.png" width="240" alt="Software & Tools">
+    <img src="Professional HIghlight Cards/ai-card.png" width="240" alt="Artificial Intelligence">
   </div>
 </div>
 
