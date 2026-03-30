@@ -165,10 +165,7 @@
 <table width="100%" cellpadding="0" cellspacing="0" border="0" style="border-collapse: collapse; margin-left: -8px; margin-right: -8px; width: calc(100% + 16px);">
   <tr>
     <td style="padding: 0; margin: 0;">
-   <img src="https://github-readme-stats.vercel.app/api?username=fraisasghar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="100%" />
-    </td>
-    <td style="padding: 0; margin: 0;">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fraisasghar&theme=github_dark" style="width: 100%; height: auto; display: block;" />
+    <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=fraisasghar&cache_seconds=7200&layout=compact&theme=highcontrast&border_radius=10" alt="fraisasghar's GitHub Stats" />
     </td>
     <td style="padding: 0; margin: 0;">
       <div style="background: linear-gradient(135deg, #87CEEB, #4682B4); padding: 0; border-radius: 12px; overflow: hidden;">
