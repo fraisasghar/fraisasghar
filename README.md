@@ -139,34 +139,7 @@
 </div>
 
 
-<!-- Activity visulization -->
 
-<div align="center">
-  <h2 align="center">
-    <span style="color: #32CD32;">✦</span>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2000&pause=1000&color=32CD32&center=true&vCenter=true&width=380&height=50&lines=Activity+Visualization" alt="Activity Visualization" />
-    <span style="color: #32CD32;">✦</span>
-  </h2>
-</div>
-  
-
-<!-- 3D Animated Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=fraisasghar&theme=github-dark&bg_color=0D1117&color=00D4FF&line=00FF00&point=87CEEB&area=true&hide_border=true&custom_title=My+Project+Journey" width="100%" />
-
-<!-- Animated Pacman Style -->
-<br>
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
-</picture>
-
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fraisasghar&theme=github-dark&area=true&hide_border=true&height=300&bg_color=0D1117&title_color=00FF00&color=00FF00&line=00FF00&point=FFFFFF" alt="Activity Graph" />
-</div>
 
 ---
 
@@ -215,6 +188,20 @@
   </div>
 </p>
 
+
+<!-- 3D Animated Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=fraisasghar&theme=github-dark&bg_color=0D1117&color=00D4FF&line=00FF00&point=87CEEB&area=true&hide_border=true&custom_title=My+Project+Journey" width="100%" />
+
+<!-- Animated Pacman Style -->
+<br>
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
 
 ---
 
