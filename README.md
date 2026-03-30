@@ -157,9 +157,7 @@
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fraisasghar&theme=github_dark" width="100%" />
 
-<br>
 
-<!--Table -->
 <!--Table -->
 <table width="100%" cellpadding="0" cellspacing="0" border="0" style="border-collapse: collapse; margin-left: -8px; margin-right: -8px; width: calc(100% + 16px);">
   <tr>
@@ -189,7 +187,7 @@
 </p>
 
 <!-- 3D Animated Bigger Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=fraisasghar&theme=github-dark&bg_color=0D1117&color=00D4FF&line=00FF00&point=87CEEB&area=true&hide_border=true&custom_title=My+Project+Journey" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=fraisasghar&theme=github-dark&bg_color=0D1117&color=00FF00&line=00FF00&point=00FF00&area=true&hide_border=true&custom_title=My+Project+Journey" width="100%" />
 
 ---
 
