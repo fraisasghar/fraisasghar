@@ -177,6 +177,7 @@
 
 
 <!--Trophies -->
+<img src="https://slackmojis.com/emojis/3957-winner/download" width="60" /><img src="https://slackmojis.com/emojis/15285-trophy/download" width="100" /><img src="https://slackmojis.com/emojis/3957-winner/download" width="80" />
 <p align="center">
   <div style="width: 1000px; overflow: hidden; margin: 0 auto;">
     <img src="https://github-trophies.vercel.app/?username=fraisasghar&theme=radical&no-frame=true&no-bg=true&margin-w=0&column=8&row=1" 
@@ -199,6 +200,7 @@
 </picture>
 
 </div>
+
 
 ---
 
