@@ -147,8 +147,6 @@
 </div>
   
 
-<!-- 3D Animated Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=fraisasghar&theme=github-dark&bg_color=0D1117&color=00D4FF&line=00FF00&point=87CEEB&area=true&hide_border=true&custom_title=My+Project+Journey" width="100%" />
 
 <!-- Animated Pacman Style -->
 <br>
@@ -161,9 +159,6 @@
 
 </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fraisasghar&theme=github-dark&area=true&hide_border=true&height=300&bg_color=0D1117&title_color=00FF00&color=00FF00&line=00FF00&point=FFFFFF" alt="Activity Graph" />
-</div>
 
 ---
 
@@ -189,10 +184,7 @@
 <table width="100%" cellpadding="0" cellspacing="0" border="0" style="border-collapse: collapse; margin-left: -8px; margin-right: -8px; width: calc(100% + 16px);">
   <tr>
     <td style="padding: 0; margin: 0;">
-   <img src="https://github-readme-stats.vercel.app/api?username=fraisasghar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="100%" />
-    </td>
-    <td style="padding: 0; margin: 0;">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fraisasghar&theme=github_dark" style="width: 100%; height: auto; display: block;" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=fraisasghar&cache_seconds=7200&layout=compact&theme=highcontrast" alt="fraisasghar's GitHub Stats" style="width: 100%; height: auto; display: block;" />
     </td>
     <td style="padding: 0; margin: 0;">
       <div style="background: linear-gradient(135deg, #87CEEB, #4682B4); padding: 0; border-radius: 12px; overflow: hidden;">
@@ -212,7 +204,8 @@
   </div>
 </p>
 
-
+<!-- 3D Animated Bigger Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=fraisasghar&theme=github-dark&bg_color=0D1117&color=00D4FF&line=00FF00&point=87CEEB&area=true&hide_border=true&custom_title=My+Project+Journey" width="100%" />
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
