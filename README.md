@@ -254,11 +254,11 @@
 </div>
 
 <!-- Final Call to Action – Killer Button -->
+<div align="center">
 <a href="mailto:fraisasghar202@gmail.com">
   <img src="https://img.shields.io/badge/LET'S_BUILD_TOGETHER-056d05?style=for-the-badge&logo=rocket&logoColor=white&labelColor=056d05&color=B22222" height="60"/>
 </a>
 
-###
 <!-- Text -->
 <p style="font-size:24px; color:#1DB954;">
   <strong>Research • Technical Roles • AI + Engineering Projects</strong>
@@ -275,7 +275,7 @@
 </div>
 
 
-
+<!-- 3D Activity City -->
 
 ## GitHub Stats & Trophies
 <div align="center">
