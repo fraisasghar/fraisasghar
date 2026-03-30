@@ -1,4 +1,3 @@
-
 <!-- Main Banner  -->
 <div align="center">
   <h2 style="margin-top:-10px; font-weight:600;">
@@ -205,24 +204,24 @@
 </div>
 
 <div align="center">
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; max-width: 900px; margin: 0 auto;">
-    <a href="https://www.linkedin.com/in/frais-asghar202">
-      <img width="252" height="264" alt="LinkedIn Card" src="https://github.com/user-attachments/assets/149df2a6-80ab-4c0f-b1ca-fafc8f2dbf40" />
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 25px; max-width: 900px; margin: 0 auto;">
+    <a href="https://www.linkedin.com/in/frais-asghar202" style="text-decoration: none; display: inline-block; line-height: 0;">
+      <img width="252" height="264" alt="LinkedIn Card" src="Connection Cards/LinkedIn.png" style="display: block; border: none;" />
     </a>
-    <a href="mailto:fraisasghar202@gmail.com">
-      <img width="259" height="264" alt="Mail 1 Card" src="https://github.com/user-attachments/assets/571fbdb2-3561-4ccc-92de-d736fcd4d800" />
+    <a href="mailto:fraisasghar202@gmail.com" style="text-decoration: none; display: inline-block; line-height: 0;">
+      <img width="259" height="264" alt="Mail 1 Card" src="Connection Cards/Mail1.png" style="display: block; border: none;" />
     </a>
-    <a href="mailto:fraisasghar404@gmail.com">
-      <img width="259" height="264" alt="Mail 2 Card" src="https://github.com/user-attachments/assets/6f1c49be-0ee5-45cf-aa0a-f875b734b2d7" />
+    <a href="mailto:fraisasghar404@gmail.com" style="text-decoration: none; display: inline-block; line-height: 0;">
+      <img width="259" height="264" alt="Mail 2 Card" src="Connection Cards/Mail2.png" style="display: block; border: none;" />
     </a>
-    <a href="https://wa.me/923266367678?text=Hello%20Frais">
-      <img width="251" height="264" alt="WhatsApp Card" src="https://github.com/user-attachments/assets/692a375b-96f3-4a20-9517-f2c5e41690a4" />
+    <a href="https://wa.me/923266367678?text=Hello%20Frais" style="text-decoration: none; display: inline-block; line-height: 0;">
+      <img width="251" height="264" alt="WhatsApp Card" src="Connection Cards/Whatsapp.png" style="display: block; border: none;" />
     </a>
-    <a href="https://discord.com/channels/1407742708964917388/1407742710097514628">
-      <img width="255" height="264" alt="Discord Card" src="https://github.com/user-attachments/assets/dfc219ff-9300-421a-8779-feaaed15e1ce" />
+    <a href="https://discord.com/channels/1407742708964917388/1407742710097514628" style="text-decoration: none; display: inline-block; line-height: 0;">
+      <img width="255" height="264" alt="Discord Card" src="Connection Cards/Discord.png" style="display: block; border: none;" />
     </a>
-    <a href="http://www.youtube.com/@FraisAsghar">
-      <img width="258" height="264" alt="YouTube Card" src="https://github.com/user-attachments/assets/18b0e251-c167-4ed0-bd75-313810edd785" />
+    <a href="http://www.youtube.com/@FraisAsghar" style="text-decoration: none; display: inline-block; line-height: 0;">
+      <img width="258" height="264" alt="YouTube Card" src="Connection Cards/YouTube.png" style="display: block; border: none;" />
     </a>
   </div>
 </div>
