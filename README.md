@@ -119,10 +119,10 @@
 
 <div align="center">
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; max-width: 900px; margin: 0 auto;">
-    <img src="skills-cards/machining-card.png" width="209" alt="Machining">
-    <img src="skills-cards/fabrication-card.png" width="209" alt="Fabrication">
-    <img src="skills-cards/measurement-card.png" width="209" alt="Measurement">
-    <img src="skills-cards/training-card.png" width="209" alt="Training">
+    <img src="skills-cards/machining-card.png" width="205" alt="Machining">
+    <img src="skills-cards/fabrication-card.png" width="205" alt="Fabrication">
+    <img src="skills-cards/measurement-card.png" width="205" alt="Measurement">
+    <img src="skills-cards/training-card.png" width="205" alt="Training">
   </div>
 </div>
 
