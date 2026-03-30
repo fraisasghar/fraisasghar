@@ -1,3 +1,4 @@
+
 <!-- Main Banner  -->
 <div align="center">
   <h2 style="margin-top:-10px; font-weight:600;">
@@ -159,19 +160,24 @@
 <br>
 
 <!--Table -->
+<!--Table -->
 <table width="100%" cellpadding="0" cellspacing="0" border="0" style="border-collapse: collapse; margin-left: -8px; margin-right: -8px; width: calc(100% + 16px);">
   <tr>
-    <td style="padding: 0; margin: 0;">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=fraisasghar&cache_seconds=7200&layout=compact&theme=highcontrast" alt="fraisasghar's GitHub Stats" style="width: 100%; height: auto; display: block;" />
+    <td style="padding: 0; margin: 0; width: 50%;">
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=fraisasghar&cache_seconds=7200&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&text_color=FFFFFF&title_color=00FF00&icon_color=00FF00&ring_color=00FF00" alt="fraisasghar's GitHub Stats" style="width: 100%; height: auto; display: block;" />
     </td>
-    <td style="padding: 0; margin: 0;">
-      <div style="background: linear-gradient(135deg, #87CEEB, #4682B4); padding: 0; border-radius: 12px; overflow: hidden;">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=fraisasghar&theme=dark&hide_border=true&background=0D1117&ring=00FF00&fire=00FF00&currStreakLabel=00FF00" style="width: 100%; height: auto; display: block;" />
-      </div>
+    <td style="padding: 0; margin: 0; width: 50%;">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=fraisasghar&theme=dark&hide_border=true&background=0D1117&ring=00FF00&fire=00FF00&currStreakLabel=00FF00" alt="fraisasghar's Streak Stats" style="width: 100%; height: auto; display: block;" />
     </td>
   </tr>
 </table>
 
+
+
+<!--Animated of Winner Trophies -->
+<p align="center">
+<img src="https://slackmojis.com/emojis/15285-trophy/download" width="100" /><img src="https://slackmojis.com/emojis/3957-winner/download" width="80" />
+</p>
 
 <!--Trophies -->
 <p align="center">
@@ -184,6 +190,7 @@
 
 <!-- 3D Animated Bigger Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=fraisasghar&theme=github-dark&bg_color=0D1117&color=00D4FF&line=00FF00&point=87CEEB&area=true&hide_border=true&custom_title=My+Project+Journey" width="100%" />
+
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
