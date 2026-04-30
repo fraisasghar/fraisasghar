@@ -265,7 +265,7 @@
 </p>
 
 <p style="color:#aaaaaa; font-size:15px;">
-  <em>Last Updated: March 2026 • Built with precision for engineering excellence</em>
+  <em>Last Updated: May 2026 • Built with precision for engineering excellence</em>
 </p>
 
 </div>
