@@ -79,7 +79,7 @@
       <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansys/ansys-original.svg" width="80" height="80" alt="ANSYS"/><br><b>ANSYS</b></td>
       <td align="center"><img width="90" height="80" alt="Image" src="https://github.com/user-attachments/assets/0fa3c284-fce8-4296-97c7-ce4b9004886f" /><br><b>Autodesk CFD</b></td>
       <td align="center"><img width="120" height="90" alt="Image" src="https://github.com/user-attachments/assets/dc021fe9-d702-4f3f-a227-2702adbac19f" /><br><b>Proteus 9</b></td>
-      <td align="center"><img width="100" height="80" alt="Image" src="https://github.com/user-attachments/assets/7e32a00e-3f49-4623-9100-b7134fb4db25" /><br><b>EES</b></td>
+      <td align="center"><img width="90" height="80" alt="Image" src="https://github.com/user-attachments/assets/7e32a00e-3f49-4623-9100-b7134fb4db25" /><br><b>EES</b></td>
      </tr>
    </table>
 </div>
@@ -105,10 +105,10 @@
     <tr>
       <td align="center"><img width="80" height="80" alt="Image" src="https://github.com/user-attachments/assets/bf7c8cfc-94db-4595-8324-3eb0c2b7dbd9" /><br><b>Primavera P6</b></td>
       <td align="center"><img width="80" height="80" alt="Image" src="https://github.com/user-attachments/assets/ca2eb684-7441-4b5f-a3a0-78208a9c03e7" /><br><b>OpenBom</b></td>
-      <td align="center"><img width="80" height="80" alt="Image" src="https://github.com/user-attachments/assets/bb7d33a2-5385-4b2e-82ff-8d02b8df486c" /><br><b>Excel Expert</b></td>
-      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="70" height="90" alt="TensorFlow"/><br><b>Machine Learning</b></td>
-      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="70" height="90" alt="PyTorch"/><br><b>Deep Learning</b></td>
-      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="70" height="90" alt="Pandas"/><br><b>Data Analysis</b></td>
+      <td align="center"><img width="100" height="80" alt="Image" src="https://github.com/user-attachments/assets/bb7d33a2-5385-4b2e-82ff-8d02b8df486c" /><br><b>Excel Expert</b></td>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="90" height="90" alt="TensorFlow"/><br><b>Machine Learning</b></td>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="90" height="90" alt="PyTorch"/><br><b>Deep Learning</b></td>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="90" height="90" alt="Pandas"/><br><b>Data Analysis</b></td>
     </tr>
   </table>
 </div>
