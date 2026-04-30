@@ -247,7 +247,7 @@
     <img src="Connect with me/MAil.webp" width="52" height="40" alt="mail 1 logo"/>
   </a>&nbsp;&nbsp;
   <a href="mailto:fraisasghar404@gmail.com" target="_blank">
-    <img src="Connect with me/MAil.webp" width="52" height="40" alt="mail 2 logo"/>
+    <img src="Connect with me/Mail2.png" width="57" height="45" alt="mail 2 logo"/>
   </a>&nbsp;&nbsp;
   <a href="https://wa.me/923266367678?text=Hello%20Frais" target="_blank">
     <img src="Connect with me/Whatsapp.webp" width="47" height="45" alt="whatsapp logo"/>
