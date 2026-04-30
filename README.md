@@ -20,7 +20,7 @@
 <div align="center">
   <img width="70" height="50" alt="SolidWorks" src="Tool & Languages Icons/Solidworks.png" />
   <img width="40" height="40" alt="AutoCAD" src="Tool & Languages Icons/AutoCAD.png" />
-  <img width="40" height="40" alt="ANSYS" src="Tool & Languages Icons/Ansys.png" />
+  <img width="40" height="40" alt="ANSYS" src="Tool & Languages Icons/Ansys2.png" />
   <img width="45" height="40" alt="Autodesk CFD" src="Tool & Languages Icons/CFD.png" />
   <img width="45" height="40" alt="Proteus 9" src="Tool & Languages Icons/Proteus.png" />
   <img width="45" height="40" alt="EES" src="Tool & Languages Icons/EES.png" />
@@ -31,8 +31,8 @@
   <img width="40" height="40" alt="Git" src="Tool & Languages Icons/Git.png" />
   <img width="40" height="40" alt="GitHub" src="Tool & Languages Icons/Github.jpg" />
   <img width="30" height="40" alt="VS Code" src="Tool & Languages Icons/VS Code.png" />
-  <img width="50" height="40" alt="Primavera P6" src="Tool & Languages Icons/Primavera P6.png" />
-  <img width="50" height="40" alt="OpenBom" src="Tool & Languages Icons/OpenBom.png" />
+  <img width="45" height="40" alt="Primavera P6" src="Tool & Languages Icons/Primavera P6.png" />
+  <img width="45" height="40" alt="OpenBom" src="Tool & Languages Icons/OpenBom.png" />
   <img width="40" height="40" alt="Excel Expert" src="Tool & Languages Icons/Excel.png" />
   <img width="45" height="40" alt="Machine Learning" src="Tool & Languages Icons/Tensor Flow.png" />
   <img width="45" height="40" alt="Data Analysis" src="Tool & Languages Icons/Data Analysis.png" />
