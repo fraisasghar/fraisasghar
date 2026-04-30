@@ -18,24 +18,24 @@
 <!-- Tech Stack -->
 ### **Tools & Languages:**
 <div align="center">
-  <img width="70" height="50" alt="Image" src="https://github.com/user-attachments/assets/ebef6db6-902c-4f0d-a217-e1e48c72bfd9" />
-  <img width="40" height="40" alt="Image" src="https://github.com/user-attachments/assets/5a3de545-1ca4-4297-b8a6-55fbb863c38e" />
-  <img width="40" height="40" alt="ANSYS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansys/ansys-original.svg"/>
-  <img width="45" height="40" alt="Image" src="https://github.com/user-attachments/assets/0fa3c284-fce8-4296-97c7-ce4b9004886f" />
-  <img width="45" height="40" alt="Image" src="https://github.com/user-attachments/assets/dc021fe9-d702-4f3f-a227-2702adbac19f" />
-  <img width="45" height="40" alt="Image" src="https://github.com/user-attachments/assets/7e32a00e-3f49-4623-9100-b7134fb4db25" />
-  <img width="40" height="40" alt="Image" src="https://github.com/user-attachments/assets/6122c28e-84e3-41d8-a411-dd198f103c33" />
-  <img width="45" height="40" alt="Image" src="https://github.com/user-attachments/assets/2300ebb2-87ec-4da9-9913-c28857ceebb0" />
-  <img width="40" height="40" alt="Image" src="https://github.com/user-attachments/assets/bf7c8cfc-94db-4595-8324-3eb0c2b7dbd9" />
-  <img width="40" height="40" alt="Image" src="https://github.com/user-attachments/assets/ca2eb684-7441-4b5f-a3a0-78208a9c03e7" />
-  <img width="50" height="40" alt="Python"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img width="40" height="40" alt="C++" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
-  <img width="45" height="40" alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img width="40" height="40" alt="Image" src="https://github.com/user-attachments/assets/9c2c39a7-990c-43a2-bf52-254fdf892be1" />
-  <img width="30" height="40" alt="VS Code" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-  <img width="35" height="40" alt="TensorFlow" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
-  <img width="35" height="40" alt="PyTorch" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" />
-  <img  width="35" height="40" alt="Pandas" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"/>
+  <img width="70" height="50" alt="SolidWorks" src="Tool & Languages Icons/Solidworks.png" />
+  <img width="40" height="40" alt="AutoCAD" src="Tool & Languages Icons/AutoCAD.png" />
+  <img width="40" height="40" alt="ANSYS" src="Tool & Languages Icons/Ansys.png" />
+  <img width="45" height="40" alt="Autodesk CFD" src="Tool & Languages Icons/CFD.png" />
+  <img width="45" height="40" alt="Proteus 9" src="Tool & Languages Icons/Proteus.png" />
+  <img width="45" height="40" alt="EES" src="Tool & Languages Icons/EES.png" />
+  <img width="45" height="40" alt="Python" src="Tool & Languages Icons/Python.png" />
+  <img width="40" height="40" alt="C++" src="Tool & Languages Icons/C++.png" />
+  <img width="40" height="40" alt="MapleSoft" src="Tool & Languages Icons/Maple.png" />
+  <img width="40" height="40" alt="Matlab" src="Tool & Languages Icons/Matlab.png" />
+  <img width="40" height="40" alt="Git" src="Tool & Languages Icons/Git.png" />
+  <img width="40" height="40" alt="GitHub" src="Tool & Languages Icons/Github.jpg" />
+  <img width="30" height="40" alt="VS Code" src="Tool & Languages Icons/VS Code.png" />
+  <img width="50" height="40" alt="Primavera P6" src="Tool & Languages Icons/Primavera P6.png" />
+  <img width="50" height="40" alt="OpenBom" src="Tool & Languages Icons/OpenBom.png" />
+  <img width="40" height="40" alt="Excel Expert" src="Tool & Languages Icons/Excel.png" />
+  <img width="45" height="40" alt="Machine Learning" src="Tool & Languages Icons/Tensor Flow.png" />
+  <img width="45" height="40" alt="Data Analysis" src="Tool & Languages Icons/Data Analysis.png" />
 </div>
 <br>
 
