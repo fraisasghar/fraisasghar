@@ -24,7 +24,7 @@
   <img width="45" height="40" alt="Autodesk CFD" src="Tool & Languages Icons/CFD.png" />
   <img width="45" height="40" alt="Proteus 9" src="Tool & Languages Icons/Proteus.png" />
   <img width="45" height="40" alt="EES" src="Tool & Languages Icons/EES.png" />
-  <img width="45" height="40" alt="Python" src="Tool & Languages Icons/Python.png" />
+  <img width="40" height="40" alt="Python" src="Tool & Languages Icons/Python.png" />
   <img width="40" height="40" alt="C++" src="Tool & Languages Icons/C++.png" />
   <img width="40" height="40" alt="MapleSoft" src="Tool & Languages Icons/Maple.png" />
   <img width="40" height="40" alt="Matlab" src="Tool & Languages Icons/Matlab.png" />
@@ -107,12 +107,11 @@
       <td align="center"><img width="80" height="80" alt="OpenBom" src="Tool & Languages Icons/OpenBom.png" /><br><b>OpenBom</b></td>
       <td align="center"><img width="80" height="80" alt="Excel Expert" src="Tool & Languages Icons/Excel.png" /><br><b>Excel Expert</b></td>
       <td align="center"><img width="90" height="90" alt="Machine Learning" src="Tool & Languages Icons/Tensor Flow.png" /><br><b>Machine Learning</b></td>
-      <td align="center"><img width="90" height="90" alt="Deep Learning" src="Tool & Languages Icons/Deep Learning.png" /><br><b>Deep Learning</b></td>
+      <td align="center"><img width="80" height="90" alt="Deep Learning" src="Tool & Languages Icons/Deep Learning.png" /><br><b>Deep Learning</b></td>
       <td align="center"><img width="90" height="90" alt="Data Analysis" src="Tool & Languages Icons/Data Analysis.png" /><br><b>Data Analysis</b></td>
     </tr>
   </table>
 </div>
-
 
 
 ---
