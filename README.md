@@ -229,27 +229,33 @@
 </div>
 
 <br>
+<br>
+
+
 
 <div align="center">
   <a href="https://www.linkedin.com/in/frais-asghar202/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"/>
+    <img src="Connect with me/LinkedIn.png" width="47" height="45" alt="linkedin logo"/>
   </a>&nbsp;&nbsp;
   <a href="https://discord.com/channels/1407742708964917388/1407742710097514628" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"/>
+    <img src="Connect with me/Discord.png" width="52" height="40" alt="discord logo"/>
   </a>&nbsp;&nbsp;
   <a href="http://www.youtube.com/@FraisAsghar" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"/>
+    <img src="Connect with me/YouTube.png" width="52" height="40" alt="youtube logo"/>
   </a>&nbsp;&nbsp;
   <a href="mailto:fraisasghar202@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="mail 1 logo"/>
+    <img src="Connect with me/MAil.webp" width="52" height="40" alt="mail 1 logo"/>
   </a>&nbsp;&nbsp;
   <a href="mailto:fraisasghar404@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="mail 2 logo" style="filter:hue-rotate(270deg)"/>
+    <img src="Connect with me/MAil.webp" width="52" height="40" alt="mail 2 logo"/>
   </a>&nbsp;&nbsp;
   <a href="https://wa.me/923266367678?text=Hello%20Frais" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"/>
+    <img src="Connect with me/Whatsapp.webp" width="47" height="45" alt="whatsapp logo"/>
   </a>
 </div>
+
+
+
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0D0D0D&height=3&width=100%&section=footer"/>
 </div>
