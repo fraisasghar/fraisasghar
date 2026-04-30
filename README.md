@@ -72,29 +72,29 @@
 
 ### CAD & Simulation Software:
 <div align="center">
-   <table>
-     <tr>
-      <td align="center"><img width="120" height="80" alt="Image" src="https://github.com/user-attachments/assets/ebef6db6-902c-4f0d-a217-e1e48c72bfd9" /><br><b>SolidWorks</b></td>
-      <td align="center"><img width="80" height="80" alt="Image" src="https://github.com/user-attachments/assets/5a3de545-1ca4-4297-b8a6-55fbb863c38e" /><br><b>AutoCAD</b></td>
-      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansys/ansys-original.svg" width="80" height="80" alt="ANSYS"/><br><b>ANSYS</b></td>
-      <td align="center"><img width="90" height="80" alt="Image" src="https://github.com/user-attachments/assets/0fa3c284-fce8-4296-97c7-ce4b9004886f" /><br><b>Autodesk CFD</b></td>
-      <td align="center"><img width="120" height="90" alt="Image" src="https://github.com/user-attachments/assets/dc021fe9-d702-4f3f-a227-2702adbac19f" /><br><b>Proteus 9</b></td>
-      <td align="center"><img width="90" height="80" alt="Image" src="https://github.com/user-attachments/assets/7e32a00e-3f49-4623-9100-b7134fb4db25" /><br><b>EES</b></td>
-     </tr>
-   </table>
+  <table>
+    <tr>
+      <td align="center"><img width="120" height="80" alt="SolidWorks" src="Tool & Languages Icons/Solidworks.png" /><br><b>SolidWorks</b></td>
+      <td align="center"><img width="80" height="80" alt="AutoCAD" src="Tool & Languages Icons/AutoCAD.png" /><br><b>AutoCAD</b></td>
+      <td align="center"><img width="100" height="100" alt="ANSYS" src="Tool & Languages Icons/Ansys2.png" /><br><b>ANSYS</b></td>
+      <td align="center"><img width="90" height="80" alt="Autodesk CFD" src="Tool & Languages Icons/CFD.png" /><br><b>Autodesk CFD</b></td>
+      <td align="center"><img width="120" height="90" alt="Proteus 9" src="Tool & Languages Icons/Proteus.png" /><br><b>Proteus 9</b></td>
+      <td align="center"><img width="90" height="80" alt="EES" src="Tool & Languages Icons/EES.png" /><br><b>EES</b></td>
+    </tr>
+  </table>
 </div>
 
 ### Programming & Development:
 <div align="center">
   <table>
     <tr>
-      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="100" height="80" alt="Python"/><br><b>Python</b></td>
-      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="90" height="80" alt="C++"/><br><b>C++</b></td>
-      <td align="center"><img width="80" height="80" alt="Image" src="https://github.com/user-attachments/assets/6122c28e-84e3-41d8-a411-dd198f103c33" /><br><b>MapleSoft</b></td>
-      <td align="center"><img width="90" height="80" alt="Image" src="https://github.com/user-attachments/assets/2300ebb2-87ec-4da9-9913-c28857ceebb0" /><br><b>Matlab</b></td>
-      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="90" height="80" alt="Git"/><br><b>Git</b></td>
-      <td align="center"><img width="80" height="80" alt="Image" src="https://github.com/user-attachments/assets/9c2c39a7-990c-43a2-bf52-254fdf892be1" /><br><b>GitHub</b></td>
-      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="70" height="100" alt="VS Code"/><br><b>VS Code</b></td>
+      <td align="center"><img width="90" height="80" alt="Python" src="Tool & Languages Icons/Python.png" /><br><b>Python</b></td>
+      <td align="center"><img width="85" height="80" alt="C++" src="Tool & Languages Icons/C++.png" /><br><b>C++</b></td>
+      <td align="center"><img width="80" height="80" alt="MapleSoft" src="Tool & Languages Icons/Maple.png" /><br><b>MapleSoft</b></td>
+      <td align="center"><img width="90" height="80" alt="Matlab" src="Tool & Languages Icons/Matlab.png" /><br><b>Matlab</b></td>
+      <td align="center"><img width="90" height="80" alt="Git" src="Tool & Languages Icons/Git.png" /><br><b>Git</b></td>
+      <td align="center"><img width="80" height="80" alt="GitHub" src="Tool & Languages Icons/Github.jpg" /><br><b>GitHub</b></td>
+      <td align="center"><img width="80" height="110" alt="VS Code" src="Tool & Languages Icons/VS Code.png" /><br><b>VS Code</b></td>
     </tr>
   </table>
 </div>
@@ -103,15 +103,17 @@
 <div align="center">
   <table>
     <tr>
-      <td align="center"><img width="80" height="80" alt="Image" src="https://github.com/user-attachments/assets/bf7c8cfc-94db-4595-8324-3eb0c2b7dbd9" /><br><b>Primavera P6</b></td>
-      <td align="center"><img width="80" height="80" alt="Image" src="https://github.com/user-attachments/assets/ca2eb684-7441-4b5f-a3a0-78208a9c03e7" /><br><b>OpenBom</b></td>
-      <td align="center"><img width="100" height="80" alt="Image" src="https://github.com/user-attachments/assets/bb7d33a2-5385-4b2e-82ff-8d02b8df486c" /><br><b>Excel Expert</b></td>
-      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="90" height="90" alt="TensorFlow"/><br><b>Machine Learning</b></td>
-      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="90" height="90" alt="PyTorch"/><br><b>Deep Learning</b></td>
-      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="90" height="90" alt="Pandas"/><br><b>Data Analysis</b></td>
+      <td align="center"><img width="90" height="90" alt="Primavera P6" src="Tool & Languages Icons/Primavera P6.png" /><br><b>Primavera P6</b></td>
+      <td align="center"><img width="80" height="80" alt="OpenBom" src="Tool & Languages Icons/OpenBom.png" /><br><b>OpenBom</b></td>
+      <td align="center"><img width="80" height="80" alt="Excel Expert" src="Tool & Languages Icons/Excel.png" /><br><b>Excel Expert</b></td>
+      <td align="center"><img width="90" height="90" alt="Machine Learning" src="Tool & Languages Icons/Tensor Flow.png" /><br><b>Machine Learning</b></td>
+      <td align="center"><img width="90" height="90" alt="Deep Learning" src="Tool & Languages Icons/Deep Learning.png" /><br><b>Deep Learning</b></td>
+      <td align="center"><img width="90" height="90" alt="Data Analysis" src="Tool & Languages Icons/Data Analysis.png" /><br><b>Data Analysis</b></td>
     </tr>
   </table>
 </div>
+
+
 
 ---
 
