@@ -301,3 +301,8 @@
 
 </div>
 
+
+
+
+
+![Snake animation](https://raw.githubusercontent.com/fraisasghar/fraisasghar/output/github-contribution-grid-snake-dark.svg)
