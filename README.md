@@ -89,8 +89,8 @@
 <div align="center">
   <table>
     <tr>
-      <td align="center"><img width="90" height="80" alt="Python" src="Tool & Languages Icons/Python.png" /><br><b>Python</b></td>
-      <td align="center"><img width="85" height="80" alt="C++" src="Tool & Languages Icons/C++.png" /><br><b>C++</b></td>
+      <td align="center"><img width="80" height="80" alt="Python" src="Tool & Languages Icons/Python.png" /><br><b>Python</b></td>
+      <td align="center"><img width="75" height="80" alt="C++" src="Tool & Languages Icons/C++.png" /><br><b>C++</b></td>
       <td align="center"><img width="80" height="80" alt="MapleSoft" src="Tool & Languages Icons/Maple.png" /><br><b>MapleSoft</b></td>
       <td align="center"><img width="90" height="80" alt="Matlab" src="Tool & Languages Icons/Matlab.png" /><br><b>Matlab</b></td>
       <td align="center"><img width="90" height="80" alt="Git" src="Tool & Languages Icons/Git.png" /><br><b>Git</b></td>
