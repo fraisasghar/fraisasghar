@@ -1,5 +1,5 @@
 
-<!-- Main Banner  -->
+<!------------------------------------------------ Main Banner  ----------------------------------------------------------------->
 <div align="center">
   <h2 style="margin-top:-10px; font-weight:600;">
     Hi there, Welcome to my GitHub Profile!
@@ -16,8 +16,8 @@
 
 
 
-<!-- Tech Stack -->
-### **Tools & Languages:**
+<!------------------------------------------------------------------------ Tech Stack ------------------------------------------------------------------------>
+### **My Tools & Languages:**
 <div align="center">
   <img width="70" height="50" alt="SolidWorks" src="Tool & Languages Icons/Solidworks.png" />
   <img width="40" height="40" alt="AutoCAD" src="Tool & Languages Icons/AutoCAD.png" />
@@ -40,29 +40,29 @@
 </div>
 <br>
 
-<!-- Profile Summary -->
+<!------------------------------------------------------------------------ Profile Summary(views, followers) ------------------------------------------------------------------------>
 
-<p align=" center">
+<p align="center">
   <a href="https://profile-summary-for-github.com/user/fraisasghar">
-    <img src="https://img.shields.io/badge/Profile_Summary-Click_Here-00a8ff?style=for-the-badge&logo=github&logoColor=white" alt="Profile Summary" />
-    <img src="https://komarev.com/ghpvc/?username=fraisasghar&label=Profile%20Views&color=056d05&style=for-the-badge" height="50"/>
-    <img src="https://img.shields.io/github/followers/fraisasghar?label=Followers&color=056d05&style=for-the-badge&logo=github&logoColor=white" height="50"/>
-   <img src="https://img.shields.io/github/stars/fraisasghar?label=Total%20Stars&color=056d05&style=for-the-badge&logo=star&logoColor=white" height="50"/>
+    <img src="https://img.shields.io/badge/Profile_Summary-Click_Here-8B0000?style=for-the-badge&logo=github&logoColor=white" alt="Profile Summary" />
+    <img src="https://komarev.com/ghpvc/?username=fraisasghar&label=Profile%20Views&color=1E3A8A&style=for-the-badge" height="50"/>
+    <img src="https://img.shields.io/github/followers/fraisasghar?label=Followers&color=1E3A8A&style=for-the-badge&logo=github&logoColor=white" height="50"/>
+   <img src="https://img.shields.io/github/stars/fraisasghar?label=Total%20Stars&color=FF8C00&style=for-the-badge&logo=star&logoColor=white" height="50"/>
   </a>
 </p>
 
-<!-- Divider -->
+<!------------------------------------------------------------------------ Divider ------------------------------------------------------------------------>
 
 </div>
 
 
-<!-- Gradient Line -->
+<!------------------------------------------------------------------------ Gradient Line ------------------------------------------------------------------------>
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
 </div>
 
 
-<!-- Technical Stack -->
+<!------------------------------------------------------------------------ Technical Stack ------------------------------------------------------------------------>
 <div align="center">
   <h2 align="center">
     <span style="color: #FFD700;">✦</span>
@@ -174,12 +174,12 @@
 
 
 
-<!--Animated of Winner Trophies -->
+<!------------------------------------------------------------------------Animated of Winner Trophies ------------------------------------------------------------------------>
 <p align="center">
 <img src="https://slackmojis.com/emojis/15285-trophy/download" width="100" /><img src="https://slackmojis.com/emojis/3957-winner/download" width="80" />
 </p>
 
-<!--Trophies -->
+<!------------------------------------------------------------------------Trophies ------------------------------------------------------------------------>
 <p align="center">
   <div style="width: 1000px; overflow: hidden; margin: 0 auto;">
     <img src="https://github-trophies.vercel.app/?username=fraisasghar&theme=radical&no-frame=true&no-bg=true&margin-w=0&column=8&row=1" 
@@ -188,7 +188,7 @@
   </div>
 </p>
 
-<!-- 3D Animated Bigger Graph -->
+<!------------------------------------------------------------------------ 3D Animated Bigger Graph ------------------------------------------------------------------------>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=fraisasghar&theme=github-dark&bg_color=0D1117&color=00FF00&line=00FF00&point=00FF00&area=true&hide_border=true&custom_title=My+Project+Journey" width="100%" />
 
 ---
@@ -261,19 +261,19 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0D0D0D&height=3&width=100%&section=footer"/>
 </div>
 
-<!-- Final Call to Action – Killer Button -->
+<!------------------------------------------------------------------------ Final Call to Action – Killer Button ------------------------------------------------------------------------>
 <div align="center">
 <a href="mailto:fraisasghar202@gmail.com">
   <img src="https://img.shields.io/badge/LET'S_BUILD_TOGETHER-056d05?style=for-the-badge&logo=rocket&logoColor=white&labelColor=056d05&color=B22222" height="60"/>
 </a>
 
-<!-- Text -->
+<!------------------------------------------------------------------------ Text ------------------------------------------------------------------------>
 <p style="font-size:24px; color:#1DB954;">
   <strong>Research • Technical Roles • AI + Engineering Projects</strong>
 </p>
 
 <p style="color:#aaaaaa; font-size:15px;">
-  <em>Last Updated: May 2026 • Built with precision for engineering excellence</em>
+  <em>Last Updated: june 2026 • Built with precision for engineering excellence</em>
 </p>
 
 </div>
@@ -283,7 +283,7 @@
 </div>
 
 
-<!-- 3D Activity City -->
+<!------------------------------------------------------------------------ 3D Activity City ------------------------------------------------------------------------>
 
 <div align="center">
   <img src="profile-3d-city.svg" alt="3D City" width="100%" />
