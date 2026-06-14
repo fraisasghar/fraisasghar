@@ -18,7 +18,7 @@
 
 <!------------------------------------------------------------------------ Tech Stack ------------------------------------------------------------------------>
 ### **My Tools & Languages:**
-<div align="left">
+<div align="center">
   <img width="70" height="50" alt="SolidWorks" src="Tool & Languages Icons/Solidworks.png" />
   <img width="40" height="40" alt="AutoCAD" src="Tool & Languages Icons/AutoCAD.png" />
   <img width="40" height="40" alt="ANSYS" src="Tool & Languages Icons/Ansys2.png" />
