@@ -70,18 +70,18 @@
 Mechanical Engineering student at **NUST**, specializing in **CAD/CAM design**, **simulation & analysis**, and **AI-integrated manufacturing systems**.
 Experienced in product design, structural analysis, and fluid simulation using industry-standard tools, with hands-on expertise in **manufacturing processes** including machining, fabrication, welding, and CNC operations.
 Proficient across **CAD & simulation platforms** (SolidWorks · AutoCAD · ANSYS · Autodesk CFD · Proteus), **programming & development** (Python · C++ · MATLAB · Git),
-and **AI/ML applications** including TensorFlow · Deep Learning · Computer Vision — backed by strong foundations in lean manufacturing, FEA analysis, and project management.
+and **AI/ML applications** including TensorFlow · Deep Learning · Computer Vision, backed by strong foundations in lean manufacturing, FEA analysis, and project management.
 
 ## Education:
 <table>
   <tr>
-    <td width="130" align="center">
-      <img src="Tools & Languages Logos/NUST logo.png" width="130" alt="NUST"/>
+    <td width="160" align="center">
+      <img src="Tool & Languages Icons/NUST logo.png" width="160" alt="NUST"/>
     </td>
     <td>
-      <strong>Bachelor of Engineering in Mechanical Engineering</strong><br/>
-      <a href="https://nust.edu.pk">National University of Sciences & Technology (NUST)</a> • Islamabad, Pakistan<br/>
-      <em>2024 – 2028 | School 0f Mechanical and Manufacturing Engineering | ME-16 (24-A) </em>
+      <h2>Bachelor of Engineering in Mechanical Engineering</h2>
+      <h3><a href="https://nust.edu.pk">National University of Sciences & Technology (NUST)</a> • Islamabad, Pakistan</h3>
+      <h4>2024 – 2028 | School of Mechanical and Manufacturing Engineering | ME-16 (24-A)</h4>
     </td>
   </tr>
 </table>
