@@ -1,5 +1,4 @@
 
-
 <!----------------------------|------------------- Main Banner  ----------------------------------------------------------------->
 <div align="center">
   <h2 style="margin-top:-10px; font-weight:600;">
@@ -94,10 +93,9 @@ and **AI/ML applications** including TensorFlow · Deep Learning · Computer Vis
 
 <!------------------------------------------------------------------------ Technical Stack ------------------------------------------------------------------------>
 <div align="center">
-  <h2 align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=700&size=36&duration=1&pause=100000&color=8A2BE2&center=true&vCenter=true&width=480&height=60&lines=My+Technical+Stack" alt="My Technical Stack" />
-  </h2>
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=100&color=0:06B6D4,50:3B82F6,100:8B5CF6&text=My%20Technical%20Stack&fontSize=36&fontColor=FFFFFF&animation=fadeIn" />
 </div>
+
 
 
 ### CAD & Simulation Software:
