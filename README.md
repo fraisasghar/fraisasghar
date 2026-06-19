@@ -79,9 +79,9 @@ and **AI/ML applications** including TensorFlow · Deep Learning · Computer Vis
       <img src="Tool & Languages Icons/NUST logo.png" width="140" alt="NUST"/>
     </td>
     <td align="center">
-      <h2>Bachelor of Engineering in Mechanical Engineering</h2>
-      <h3><a href="https://nust.edu.pk">National University of Sciences & Technology (NUST)</a> • Islamabad, Pakistan</h3>
-      <h4>2024 – 2028 | School of Mechanical and Manufacturing Engineering | ME-16 (24-A)</h4>
+      <h3>Bachelor of Engineering in Mechanical Engineering</h3>
+      <h4><a href="https://nust.edu.pk">National University of Sciences & Technology (NUST)</a> • Islamabad, Pakistan</h4>
+      <h5>2024 – 2028 | School of Mechanical and Manufacturing Engineering | ME-16 (24-A)</h5>
     </td>
     <td width="160" align="center">
       <img src="Tool & Languages Icons/SMME Logo.png" width="140" alt="SMME"/>
