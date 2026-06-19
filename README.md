@@ -232,6 +232,7 @@ and **AI/ML applications** including TensorFlow · Deep Learning · Computer Vis
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=12&duration=4000&pause=2000&color=444444&center=true&vCenter=true&width=700&lines=%E2%96%BA+initializing+contact+protocols...+%E2%96%BA+all+channels+active+%E2%96%BA+ready+to+receive" alt=""/>
 </div>
 
+
 <div align="center">
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 25px; max-width: 900px; margin: 0 auto;">
     <a href="https://www.linkedin.com/in/frais-asghar202" style="text-decoration: none; display: inline-block; line-height: 0;">
@@ -242,15 +243,6 @@ and **AI/ML applications** including TensorFlow · Deep Learning · Computer Vis
     </a>
     <a href="mailto:fraisasghar404@gmail.com" style="text-decoration: none; display: inline-block; line-height: 0;">
       <img width="259" height="264" alt="Mail 2 Card" src="Connection Cards/Mail2.png" style="display: block; border: none;" />
-    </a>
-    <a href="https://wa.me/923266367678?text=Hello%20Frais" style="text-decoration: none; display: inline-block; line-height: 0;">
-      <img width="251" height="264" alt="WhatsApp Card" src="Connection Cards/Whatsapp.png" style="display: block; border: none;" />
-    </a>
-    <a href="https://discord.com/channels/1407742708964917388/1407742710097514628" style="text-decoration: none; display: inline-block; line-height: 0;">
-      <img width="255" height="264" alt="Discord Card" src="Connection Cards/Discord.png" style="display: block; border: none;" />
-    </a>
-    <a href="http://www.youtube.com/@FraisAsghar" style="text-decoration: none; display: inline-block; line-height: 0;">
-      <img width="258" height="264" alt="YouTube Card" src="Connection Cards/YouTube.png" style="display: block; border: none;" />
     </a>
   </div>
 </div>
