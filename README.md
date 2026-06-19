@@ -175,12 +175,9 @@ and **AI/ML applications** including TensorFlow · Deep Learning · Computer Vis
 <!--                     Github Analytics                          -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-
 <div align="center">
   <h2 align="center">
-    <span style="color: #32CD32;">✦</span>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2000&pause=1000&color=32CD32&center=true&vCenter=true&width=380&height=50&lines=Activity+Visualization" alt="Activity Visualization" />
-    <span style="color: #32CD32;">✦</span>
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=700&size=36&duration=1&pause=100000&color=32CD32&center=true&vCenter=true&width=520&height=60&lines=Activity+Visualization" alt="Activity Visualization" />
   </h2>
 </div>
 
