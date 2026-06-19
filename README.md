@@ -1,4 +1,5 @@
 
+
 <!----------------------------|------------------- Main Banner  ----------------------------------------------------------------->
 <div align="center">
   <h2 style="margin-top:-10px; font-weight:600;">
@@ -94,11 +95,10 @@ and **AI/ML applications** including TensorFlow · Deep Learning · Computer Vis
 <!------------------------------------------------------------------------ Technical Stack ------------------------------------------------------------------------>
 <div align="center">
   <h2 align="center">
-    <span style="color: #FFD700;">✦</span>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=300&height=50&lines=Technical+Stack" alt="Technical Stack" />
-    <span style="color: #FFD700;">✦</span>
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=700&size=36&duration=1&pause=100000&color=8A2BE2&center=true&vCenter=true&width=480&height=60&lines=My+Technical+Stack" alt="My Technical Stack" />
   </h2>
 </div>
+
 
 ### CAD & Simulation Software:
 <div align="center">
