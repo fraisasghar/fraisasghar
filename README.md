@@ -222,15 +222,16 @@ and **AI/ML applications** including TensorFlow · Deep Learning · Computer Vis
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                      CONNECT WITH ME                          -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
-
-
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=28&duration=3000&pause=1500&color=FF0000&center=true&vCenter=true&width=620&lines=%5B+CONNECT_WITH_ME+%5D;%5B+LET%27S_COLLABORATE+%5D;%5B+REACH_OUT+%5D" alt="Connect With Me"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=700&size=32&duration=1&pause=100000&color=FF0000&center=true&vCenter=true&width=420&height=60&lines=Connect+With+Me" alt="Connect With Me"/>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=12&duration=4000&pause=2000&color=444444&center=true&vCenter=true&width=700&lines=%E2%96%BA+initializing+contact+protocols...+%E2%96%BA+all+channels+active+%E2%96%BA+ready+to+receive" alt=""/>
+  <img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=400&size=15&duration=1&pause=100000&color=888888&center=true&vCenter=true&width=600&height=35&lines=Open+to+collaborations%2C+opportunities%2C+and+conversations." alt="Subtitle"/>
 </div>
+
+
+
 
 
 <div align="center">
