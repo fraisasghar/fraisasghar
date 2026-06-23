@@ -179,23 +179,28 @@ and **AI/ML applications** including TensorFlow · Deep Learning · Computer Vis
 
 <div align="center">
   <h2 align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=700&size=36&duration=1&pause=100000&color=32CD32&center=true&vCenter=true&width=520&height=60&lines=Activity+Visualization" alt="Activity Visualization" />
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=700&size=36&duration=1&pause=100000&color=FF0000&center=true&vCenter=true&width=520&height=60&lines=Activity+Visualization" alt="Activity Visualization" />
   </h2>
 </div>
 
 
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fraisasghar&theme=radical" width="100%" style="display: block;" />
+</div>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fraisasghar&theme=github_dark" width="100%" />
 
 
 <!--Table -->
 <table width="100%" cellpadding="0" cellspacing="0" border="0" style="border-collapse: collapse; margin-left: -8px; margin-right: -8px; width: calc(100% + 16px);">
   <tr>
-    <td style="padding: 0; margin: 0; width: 50%;">
-      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=fraisasghar&cache_seconds=7200&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&text_color=FFFFFF&title_color=00FF00&icon_color=00FF00&ring_color=00FF00" alt="fraisasghar's GitHub Stats" style="width: 100%; height: auto; display: block;" />
+    <td style="padding: 0; margin: 0; width: 33.33%;">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=fraisasghar&theme=radical" style="width: 100%; display: block;" />
     </td>
-    <td style="padding: 0; margin: 0; width: 50%;">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=fraisasghar&theme=dark&hide_border=true&background=0D1117&ring=00FF00&fire=00FF00&currStreakLabel=00FF00" alt="fraisasghar's Streak Stats" style="width: 100%; height: auto; display: block;" />
+    <td style="padding: 0; margin: 0; width: 33.33%;">
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=fraisasghar&cache_seconds=7200&theme=dark&hide_border=true&bg_color=0D1117&text_color=FFFFFF&title_color=FF0000&icon_color=FF0000&ring_color=FF0000" alt="fraisasghar's GitHub Stats" style="width: 100%; height: auto; display: block;" />
+    </td>
+    <td style="padding: 0; margin: 0; width: 33.33%;">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=fraisasghar&theme=dark&hide_border=true&background=0D1117&ring=FF0000&fire=FF0000&currStreakLabel=FF0000" alt="fraisasghar's Streak Stats" style="width: 100%; height: auto; display: block;" />
     </td>
   </tr>
 </table>
