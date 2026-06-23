@@ -327,6 +327,8 @@ and **AI/ML applications** including TensorFlow · Deep Learning · Computer Vis
 
 
 <!-- Animated Real Snake Graph Style -->
-
+<div align="center">
 
 ![Snake animation](https://raw.githubusercontent.com/fraisasghar/fraisasghar/output/github-contribution-grid-snake-dark.svg)
+</div>
+
