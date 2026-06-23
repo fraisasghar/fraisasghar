@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,100:3B82F6&height=220&section=header&text=I'm%20Frais%20Asghar&fontSize=64&fontAlign=50&fontAlignY=60&animation=fadeIn&fontColor=ffffff&desc=Mechanical%20Engineer%20|%20Solid%20Works%20|%20Ansys%20|%20AutoCAD&descAlign=50&descAlignY=88&descSize=26&descColor=e0f2fe&shadow=true" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c3e50,100:e74c3c&height=220&section=header&text=I'm%20Frais%20Asghar&fontSize=64&fontAlign=50&fontAlignY=60&animation=fadeIn&fontColor=ffffff&desc=Mechanical%20Engineer%20|%20Solid%20Works%20|%20Ansys%20|%20AutoCAD&descAlign=50&descAlignY=88&descSize=26&descColor=fce4ec&shadow=true" alt="Header" />
 </div>
 
 <div align="center">
