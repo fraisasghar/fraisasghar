@@ -11,7 +11,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Bridging+Design+to+Manufacture;Leveraging+AI+in+Engineering;Solving+Complex+Technical+Problems;Innovating+Manufacturing+Processes" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=700&size=26&duration=3000&pause=1200&color=FF4444&center=true&vCenter=true&width=700&height=55&lines=Bridging+Design+to+Manufacture;Leveraging+AI+in+Engineering;Solving+Complex+Technical+Problems;Innovating+Manufacturing+Processes" alt="Typing SVG" />
 </div>
 
 
@@ -57,9 +57,7 @@
 
 
 <!------------------------------------------------------------------------ Gradient Line ------------------------------------------------------------------------>
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:FF0000,100:FF0000&height=2">
 
 
 <!------------------------------------------------------------------------ Professional Summary ------------------------------------------------------------------------>
