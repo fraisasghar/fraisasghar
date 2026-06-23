@@ -315,7 +315,7 @@ and **AI/ML applications** including TensorFlow · Deep Learning · Computer Vis
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:FF0000,50:FF8C00,100:FFD700&height=2">
 </div>
 
 
