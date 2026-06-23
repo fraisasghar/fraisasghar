@@ -197,10 +197,10 @@ and **AI/ML applications** including TensorFlow · Deep Learning · Computer Vis
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=fraisasghar&theme=radical" style="width: 100%; display: block;" />
     </td>
     <td style="padding: 0; margin: 0; width: 33.33%;">
-      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=fraisasghar&cache_seconds=7200&theme=dark&hide_border=true&bg_color=0D1117&text_color=FFFFFF&title_color=FF0000&icon_color=FF0000&ring_color=FF0000" alt="fraisasghar's GitHub Stats" style="width: 100%; height: auto; display: block;" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=fraisasghar&cache_seconds=7200&theme=dark&hide_border=true&bg_color=0D1117&text_color=FFFFFF&title_color=FFD700&icon_color=FFD700&ring_color=FFD700" alt="fraisasghar's GitHub Stats" style="width: 100%; height: auto; display: block;" />
     </td>
     <td style="padding: 0; margin: 0; width: 33.33%;">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=fraisasghar&theme=dark&hide_border=true&background=0D1117&ring=FF0000&fire=FF0000&currStreakLabel=FF0000" alt="fraisasghar's Streak Stats" style="width: 100%; height: auto; display: block;" />
+     <img src="https://github-readme-streak-stats.herokuapp.com/?user=fraisasghar&theme=dark&hide_border=true&background=0D1117&ring=f8d847&fire=f8d847&currStreakLabel=f8d847" alt="fraisasghar's Streak Stats" style="width: 100%; height: auto; display: block;" />
     </td>
   </tr>
 </table>
@@ -222,7 +222,23 @@ and **AI/ML applications** including TensorFlow · Deep Learning · Computer Vis
 </p>
 
 <!------------------------------------------------------------------------ 3D Animated Bigger Graph ------------------------------------------------------------------------>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=fraisasghar&theme=github-dark&bg_color=0D1117&color=00FF00&line=00FF00&point=00FF00&area=true&hide_border=true&custom_title=My+Project+Journey" width="100%" />
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fraisasghar&theme=github-dark&hide_border=true&area=true&custom_title=Contribution%20Graph&color=FFD700&line=DC143C&point=FF6B6B&area_color=660000" width="100%" />
+</div>
+
+
+
+
+
+<table width="100%" cellpadding="0" cellspacing="0" border="0" style="border-collapse: collapse; margin: 0; padding: 0;">
+  <tr>
+    <td align="center" style="padding: 0; margin: 0; line-height: 0;">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=fraisasghar&theme=github-dark&hide_border=true&area=true&custom_title=Contribution%20Graph&color=FFD700&line=DC143C&point=FF6B6B&area_color=660000" width="100%" style="display: block; margin: 0; padding: 0;" />
+    </td>
+  </tr>
+</table>
+
+
 
 ---
 
