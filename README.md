@@ -205,12 +205,21 @@ and **AI/ML applications** including TensorFlow · Deep Learning · Computer Vis
   </tr>
 </table>
 
+<!------------------------------------------------------------------------ Bigger Graph ------------------------------------------------------------------------>
 
+<table width="100%" cellpadding="0" cellspacing="0" border="0" style="border-collapse: collapse; margin: 0; padding: 0;">
+  <tr>
+    <td align="center" style="padding: 0; margin: 0; line-height: 0;">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=fraisasghar&theme=github-dark&hide_border=true&area=true&custom_title=Contribution%20Graph&color=FFD700&line=DC143C&point=FF6B6B&area_color=660000" width="100%" style="display: block; margin: 0; padding: 0;" />
+    </td>
+  </tr>
+</table>
 
 <!------------------------------------------------------------------------Animated of Winner Trophies ------------------------------------------------------------------------>
-<p align="center">
+<!---<p align="center">
 <img src="https://slackmojis.com/emojis/15285-trophy/download" width="100" /><img src="https://slackmojis.com/emojis/3957-winner/download" width="80" />
-</p>
+</p>    ---->
+
 
 <!------------------------------------------------------------------------Trophies ------------------------------------------------------------------------>
 <p align="center">
@@ -221,22 +230,7 @@ and **AI/ML applications** including TensorFlow · Deep Learning · Computer Vis
   </div>
 </p>
 
-<!------------------------------------------------------------------------ 3D Animated Bigger Graph ------------------------------------------------------------------------>
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fraisasghar&theme=github-dark&hide_border=true&area=true&custom_title=Contribution%20Graph&color=FFD700&line=DC143C&point=FF6B6B&area_color=660000" width="100%" />
-</div>
 
-
-
-
-
-<table width="100%" cellpadding="0" cellspacing="0" border="0" style="border-collapse: collapse; margin: 0; padding: 0;">
-  <tr>
-    <td align="center" style="padding: 0; margin: 0; line-height: 0;">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=fraisasghar&theme=github-dark&hide_border=true&area=true&custom_title=Contribution%20Graph&color=FFD700&line=DC143C&point=FF6B6B&area_color=660000" width="100%" style="display: block; margin: 0; padding: 0;" />
-    </td>
-  </tr>
-</table>
 
 
 
@@ -327,9 +321,9 @@ and **AI/ML applications** including TensorFlow · Deep Learning · Computer Vis
 
 <!------------------------------------------------------------------------ 3D Activity City ------------------------------------------------------------------------>
 
-<div align="center">
+<!------------- <div align="center">
   <img src="profile-3d-city.svg" alt="3D City" width="100%" />
-</div>
+</div>             ------------>
 
 
 <!-- Animated Real Snake Graph Style -->
