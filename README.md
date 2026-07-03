@@ -97,12 +97,12 @@ and **AI/ML applications** including TensorFlow · Deep Learning · Computer Vis
 
 <!------------------------------------------------------------------------ Technical Stack ------------------------------------------------------------------------>
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=100&color=0:06B6D4,50:3B82F6,100:8B5CF6&text=My%20Technical%20Stack&fontSize=36&fontColor=FFFFFF&animation=fadeIn" />
+<img width="311" alt="image" src="https://github.com/user-attachments/assets/b7178226-f608-4cdf-a03b-322ce0be2b9f" />
 </div>
 
 
 
-### CAD & Simulation Software:
+## CAD & Simulation Software:
 <div align="center">
   <table>
     <tr>
@@ -116,7 +116,7 @@ and **AI/ML applications** including TensorFlow · Deep Learning · Computer Vis
   </table>
 </div>
 
-### Programming & Development:
+## Programming & Development:
 <div align="center">
   <table>
     <tr>
@@ -131,7 +131,7 @@ and **AI/ML applications** including TensorFlow · Deep Learning · Computer Vis
   </table>
 </div>
 
-### Project Management & AI:
+## Project Management & AI:
 <div align="center">
   <table>
     <tr>
@@ -178,9 +178,7 @@ and **AI/ML applications** including TensorFlow · Deep Learning · Computer Vis
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-  <h2 align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=700&size=36&duration=1&pause=100000&color=FF0000&center=true&vCenter=true&width=520&height=60&lines=Activity+Visualization" alt="Activity Visualization" />
-  </h2>
+<img width="302" alt="image" src="https://github.com/user-attachments/assets/9081e5b1-af22-4fcb-8bc2-c2459f8ec644" />
 </div>
 
 
@@ -240,7 +238,7 @@ and **AI/ML applications** including TensorFlow · Deep Learning · Computer Vis
 <!--                      CONNECT WITH ME                          -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=700&size=32&duration=1&pause=100000&color=FF0000&center=true&vCenter=true&width=420&height=60&lines=Connect+With+Me" alt="Connect With Me"/>
+<img width="308" alt="image" src="https://github.com/user-attachments/assets/d68510e4-aa37-432b-8e54-6e86d00c0d22" />
 </div>
 
 <div align="center">
