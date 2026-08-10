@@ -1,17 +1,19 @@
-jyhhsmhsdskhhhu
-<!--------|---------|---------|------------------- Main Banner  ----------------------------------------------------------------->
+
+
+<!--------|---------|---------|------------------- Main Banner  ---------------------------------------------------------------->
 <div align="center">
   <h2 style="margin-top:-10px; font-weight:600;">
     Hi there, Welcome to my GitHub Profile!
   </h2>
 </div>
 
+<!-- Theme 1: Light Gray to Deep Red -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,100:3B82F6&height=220&section=header&text=I'm%20Frais%20Asghar&fontSize=64&fontAlign=50&fontAlignY=60&animation=fadeIn&fontColor=ffffff&desc=Mechanical%20Engineer%20|%20Solid%20Works%20|%20Ansys%20|%20AutoCAD&descAlign=50&descAlignY=88&descSize=26&descColor=e0f2fe&shadow=true" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c3e50,50:8B0000,100:660000&height=220&section=header&text=I'm%20Frais%20Asghar&fontSize=64&fontAlign=50&fontAlignY=60&animation=fadeIn&fontColor=ffffff&desc=Mechanical%20Engineer%20|%20Solid%20Works%20|%20Ansys%20|%20AutoCAD&descAlign=50&descAlignY=88&descSize=26&descColor=fce4ec&shadow=true" alt="Header" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Bridging+Design+to+Manufacture;Leveraging+AI+in+Engineering;Solving+Complex+Technical+Problems;Innovating+Manufacturing+Processes" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=700&size=26&duration=3000&pause=1200&color=FF4444&center=true&vCenter=true&width=700&height=55&lines=Bridging+Design+to+Manufacture;Leveraging+AI+in+Engineering;Solving+Complex+Technical+Problems;Innovating+Manufacturing+Processes" alt="Typing SVG" />
 </div>
 
 
@@ -57,9 +59,7 @@ jyhhsmhsdskhhhu
 
 
 <!------------------------------------------------------------------------ Gradient Line ------------------------------------------------------------------------>
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:FF0000,50:FF8C00,100:FFD700&height=2">
 
 
 <!------------------------------------------------------------------------ Professional Summary ------------------------------------------------------------------------>
@@ -73,21 +73,23 @@ Proficient across **CAD & simulation platforms** (SolidWorks · AutoCAD · ANSYS
 and **AI/ML applications** including TensorFlow · Deep Learning · Computer Vision, backed by strong foundations in lean manufacturing, FEA analysis, and project management.
 
 ## Education:
-<table>
-  <tr>
-    <td width="130" align="center">
-      <img src="Tool & Languages Icons/NUST logo.png" width="130" alt="NUST"/>
-    </td>
-    <td align="center">
-      <h3>Bachelor of Engineering in Mechanical Engineering</h3>
-      <h4><a href="https://nust.edu.pk">National University of Sciences & Technology (NUST)</a> • Islamabad, Pakistan</h4>
-      <h5>2024 – 2028 | School of Mechanical and Manufacturing Engineering | ME-16 (24-A)</h5>
-    </td>
-    <td width="130" align="center">
-      <img src="Tool & Languages Icons/SMME Logo.png" width="130" alt="SMME"/>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <table>
+    <tr>
+      <td width="130" align="center">
+        <img src="Tool & Languages Icons/NUST logo.png" width="130" alt="NUST"/>
+      </td>
+      <td align="center">
+        <h2>Bachelor of Engineering in Mechanical Engineering</h2>
+        <h4><a href="https://nust.edu.pk">National University of Sciences & Technology (NUST)</a> • Islamabad, Pakistan</h4>
+        <h5>2024 – 2028 | School of Mechanical and Manufacturing Engineering | ME-16 (24-A)</h5>
+      </td>
+      <td width="130" align="center">
+        <img src="Tool & Languages Icons/SMME Logo.png" width="130" alt="SMME"/>
+      </td>
+    </tr>
+  </table>
+</div>
 
 
 ---
@@ -96,12 +98,12 @@ and **AI/ML applications** including TensorFlow · Deep Learning · Computer Vis
 
 <!------------------------------------------------------------------------ Technical Stack ------------------------------------------------------------------------>
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=100&color=0:06B6D4,50:3B82F6,100:8B5CF6&text=My%20Technical%20Stack&fontSize=36&fontColor=FFFFFF&animation=fadeIn" />
+<img width="311" alt="image" src="https://github.com/user-attachments/assets/b7178226-f608-4cdf-a03b-322ce0be2b9f" />
 </div>
 
 
 
-### CAD & Simulation Software:
+## CAD & Simulation Software:
 <div align="center">
   <table>
     <tr>
@@ -115,7 +117,7 @@ and **AI/ML applications** including TensorFlow · Deep Learning · Computer Vis
   </table>
 </div>
 
-### Programming & Development:
+## Programming & Development:
 <div align="center">
   <table>
     <tr>
@@ -130,7 +132,7 @@ and **AI/ML applications** including TensorFlow · Deep Learning · Computer Vis
   </table>
 </div>
 
-### Project Management & AI:
+## Project Management & AI:
 <div align="center">
   <table>
     <tr>
@@ -177,34 +179,46 @@ and **AI/ML applications** including TensorFlow · Deep Learning · Computer Vis
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-  <h2 align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=700&size=36&duration=1&pause=100000&color=32CD32&center=true&vCenter=true&width=520&height=60&lines=Activity+Visualization" alt="Activity Visualization" />
-  </h2>
+<img width="302" alt="image" src="https://github.com/user-attachments/assets/9081e5b1-af22-4fcb-8bc2-c2459f8ec644" />
 </div>
 
 
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fraisasghar&theme=radical" width="100%" style="display: block;" />
+</div>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fraisasghar&theme=github_dark" width="100%" />
 
 
 <!--Table -->
 <table width="100%" cellpadding="0" cellspacing="0" border="0" style="border-collapse: collapse; margin-left: -8px; margin-right: -8px; width: calc(100% + 16px);">
   <tr>
-    <td style="padding: 0; margin: 0; width: 50%;">
-      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=fraisasghar&cache_seconds=7200&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&text_color=FFFFFF&title_color=00FF00&icon_color=00FF00&ring_color=00FF00" alt="fraisasghar's GitHub Stats" style="width: 100%; height: auto; display: block;" />
+    <td style="padding: 0; margin: 0; width: 33.33%;">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=fraisasghar&theme=radical" style="width: 100%; display: block;" />
     </td>
-    <td style="padding: 0; margin: 0; width: 50%;">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=fraisasghar&theme=dark&hide_border=true&background=0D1117&ring=00FF00&fire=00FF00&currStreakLabel=00FF00" alt="fraisasghar's Streak Stats" style="width: 100%; height: auto; display: block;" />
+    <td style="padding: 0; margin: 0; width: 33.33%;">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=fraisasghar&cache_seconds=7200&theme=dark&hide_border=true&bg_color=0D1117&text_color=FFFFFF&title_color=FFD700&icon_color=FFD700&ring_color=FFD700" alt="fraisasghar's GitHub Stats" style="width: 100%; height: auto; display: block;" />
+    </td>
+    <td style="padding: 0; margin: 0; width: 33.33%;">
+     <img src="https://github-readme-streak-stats.herokuapp.com/?user=fraisasghar&theme=dark&hide_border=true&background=0D1117&ring=f8d847&fire=f8d847&currStreakLabel=f8d847" alt="fraisasghar's Streak Stats" style="width: 100%; height: auto; display: block;" />
     </td>
   </tr>
 </table>
 
+<!------------------------------------------------------------------------ Bigger Graph ------------------------------------------------------------------------>
 
+<table width="100%" cellpadding="0" cellspacing="0" border="0" style="border-collapse: collapse; margin: 0; padding: 0;">
+  <tr>
+    <td align="center" style="padding: 0; margin: 0; line-height: 0;">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=fraisasghar&theme=github-dark&hide_border=true&area=true&custom_title=Contribution%20Graph&color=FFD700&line=DC143C&point=FF6B6B&area_color=660000" width="100%" style="display: block; margin: 0; padding: 0;" />
+    </td>
+  </tr>
+</table>
 
 <!------------------------------------------------------------------------Animated of Winner Trophies ------------------------------------------------------------------------>
-<p align="center">
+<!---<p align="center">
 <img src="https://slackmojis.com/emojis/15285-trophy/download" width="100" /><img src="https://slackmojis.com/emojis/3957-winner/download" width="80" />
-</p>
+</p>    ---->
+
 
 <!------------------------------------------------------------------------Trophies ------------------------------------------------------------------------>
 <p align="center">
@@ -215,8 +229,9 @@ and **AI/ML applications** including TensorFlow · Deep Learning · Computer Vis
   </div>
 </p>
 
-<!------------------------------------------------------------------------ 3D Animated Bigger Graph ------------------------------------------------------------------------>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=fraisasghar&theme=github-dark&bg_color=0D1117&color=00FF00&line=00FF00&point=00FF00&area=true&hide_border=true&custom_title=My+Project+Journey" width="100%" />
+
+
+
 
 ---
 
@@ -224,7 +239,7 @@ and **AI/ML applications** including TensorFlow · Deep Learning · Computer Vis
 <!--                      CONNECT WITH ME                          -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=700&size=32&duration=1&pause=100000&color=FF0000&center=true&vCenter=true&width=420&height=60&lines=Connect+With+Me" alt="Connect With Me"/>
+<img width="308" alt="image" src="https://github.com/user-attachments/assets/d68510e4-aa37-432b-8e54-6e86d00c0d22" />
 </div>
 
 <div align="center">
@@ -293,24 +308,26 @@ and **AI/ML applications** including TensorFlow · Deep Learning · Computer Vis
 </p>
 
 <p style="color:#aaaaaa; font-size:15px;">
-  <em>Last Updated: june 2026 • Built with precision for engineering excellence</em>
+  <em>Last Updated: july 2026 • Built with precision for engineering excellence</em>
 </p>
 
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:FF0000,50:FF8C00,100:FFD700&height=2">
 </div>
 
 
 <!------------------------------------------------------------------------ 3D Activity City ------------------------------------------------------------------------>
 
-<div align="center">
+<!------------- <div align="center">
   <img src="profile-3d-city.svg" alt="3D City" width="100%" />
-</div>
+</div>             ------------>
 
 
 <!-- Animated Real Snake Graph Style -->
-
+<div align="center">
 
 ![Snake animation](https://raw.githubusercontent.com/fraisasghar/fraisasghar/output/github-contribution-grid-snake-dark.svg)
+</div>
+
