@@ -109,7 +109,7 @@ and **AI/ML applications** including TensorFlow · Deep Learning · Computer Vis
   <table>
     <tr>
       <td align="center"><img width="120" height="80" alt="SolidWorks" src="Tool & Languages Icons/Solidworks.png" /><br><b>SolidWorks</b></td>
-      <td align="center"><img    height="80" alt="SolidWorks" src="Tool & Languages Icons/COMSOL.png" /><br><b>COMSOL</b></td>
+      <td align="center"><img    height="80" alt="COMSOL" src="Tool & Languages Icons/COMSOL.png" /><br><b>COMSOL</b></td>
       <td align="center"><img width="80" height="80" alt="AutoCAD" src="Tool & Languages Icons/AutoCAD.png" /><br><b>AutoCAD</b></td>
       <td align="center"><img width="100" height="100" alt="ANSYS" src="Tool & Languages Icons/Ansys2.png" /><br><b>ANSYS</b></td>
       <td align="center"><img width="90" height="80" alt="Autodesk CFD" src="Tool & Languages Icons/CFD.png" /><br><b>Autodesk CFD</b></td>
@@ -127,6 +127,7 @@ and **AI/ML applications** including TensorFlow · Deep Learning · Computer Vis
       <td align="center"><img width="75" height="80" alt="C++" src="Tool & Languages Icons/C++.png" /><br><b>C++</b></td>
       <td align="center"><img width="80" height="80" alt="MapleSoft" src="Tool & Languages Icons/Maple.png" /><br><b>MapleSoft</b></td>
       <td align="center"><img width="90" height="80" alt="Matlab" src="Tool & Languages Icons/Matlab.png" /><br><b>Matlab</b></td>
+      <td align="center"><img  height="80" alt="HTML" src="Tool & Languages Icons/HTML.png" /><br><b>HTML</b></td>
       <td align="center"><img width="90" height="80" alt="Git" src="Tool & Languages Icons/Git.png" /><br><b>Git</b></td>
       <td align="center"><img width="80" height="80" alt="GitHub" src="Tool & Languages Icons/Github.jpg" /><br><b>GitHub</b></td>
       <td align="center"><img width="80" height="110" alt="VS Code" src="Tool & Languages Icons/VS Code.png" /><br><b>VS Code</b></td>
