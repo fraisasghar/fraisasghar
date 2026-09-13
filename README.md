@@ -22,6 +22,7 @@
 ### **My Tools & Languages:**
 <div align="center">
   <img width="70" height="50" alt="SolidWorks" src="Tool & Languages Icons/Solidworks.png" />
+  <img  height="50" alt="COMSOL" src="Tool & Languages Icons/COMSOL.png" />  
   <img width="40" height="40" alt="AutoCAD" src="Tool & Languages Icons/AutoCAD.png" />
   <img width="40" height="40" alt="ANSYS" src="Tool & Languages Icons/Ansys2.png" />
   <img width="45" height="40" alt="Autodesk CFD" src="Tool & Languages Icons/CFD.png" />
@@ -108,6 +109,7 @@ and **AI/ML applications** including TensorFlow · Deep Learning · Computer Vis
   <table>
     <tr>
       <td align="center"><img width="120" height="80" alt="SolidWorks" src="Tool & Languages Icons/Solidworks.png" /><br><b>SolidWorks</b></td>
+      <td align="center"><img    height="80" alt="SolidWorks" src="Tool & Languages Icons/COMSOL.png" /><br><b>COMSOL</b></td>
       <td align="center"><img width="80" height="80" alt="AutoCAD" src="Tool & Languages Icons/AutoCAD.png" /><br><b>AutoCAD</b></td>
       <td align="center"><img width="100" height="100" alt="ANSYS" src="Tool & Languages Icons/Ansys2.png" /><br><b>ANSYS</b></td>
       <td align="center"><img width="90" height="80" alt="Autodesk CFD" src="Tool & Languages Icons/CFD.png" /><br><b>Autodesk CFD</b></td>
