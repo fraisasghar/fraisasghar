@@ -39,7 +39,6 @@
   <img width="45" height="40" alt="OpenBom" src="Tool & Languages Icons/OpenBom.png" />
   <img width="40" height="40" alt="Excel Expert" src="Tool & Languages Icons/Excel.png" />
   <img width="45" height="40" alt="Machine Learning" src="Tool & Languages Icons/Tensor Flow.png" />
-  <img width="45" height="40" alt="Data Analysis" src="Tool & Languages Icons/Data Analysis.png" />
 </div>
 <br>
 
